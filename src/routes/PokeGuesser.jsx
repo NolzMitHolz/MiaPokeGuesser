@@ -1,5 +1,4 @@
 import {useEffect, useState} from "react";
-import PokeFile from "../files/PokeFile.json";
 import PokeSelectFile from "../files/PokeSelectFile.json";
 import Select from "react-select";
 import {loadPokemonList} from "../customFunctions";
@@ -10,7 +9,7 @@ export default function PokeGuesser() {
     const [selectedPoke, setSelectedPoke] = useState(null);
     const [randomNumber, setRandomNumber] = useState();
     const [currentPoke, setCurrentPoke] = useState(pokeData[randomNumber]);
-    const [pokeSelect, setPokeSelect] = useState(PokeSelectFile);
+    const pokeSelect = PokeSelectFile;
     const [correctPoke, setCorrectPoke] = useState(null);
 
     const handleChange = (event) => {
@@ -36,17 +35,11 @@ export default function PokeGuesser() {
 
     useEffect(() => {
         setCurrentPoke(pokeData[randomNumber]);
-    }, [randomNumber])
+    }, [randomNumber, pokeData])
 
     useEffect(() => {
         setRandomNumber(Math.ceil(Math.random() * pokeData.length));
     }, [pokeData])
-
-
-
-    useEffect(() => {
-        console.log(currentPoke);
-    }, [currentPoke])
 
     return (
         <div>
