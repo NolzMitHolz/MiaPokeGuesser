@@ -7,7 +7,6 @@ import PokeListGen6 from './files/PokemonList/gen6List.json';
 import PokeListGen7 from './files/PokemonList/gen7List.json';
 import PokeListGen8 from './files/PokemonList/gen8List.json';
 import PokeListGen9 from './files/PokemonList/gen9List.json';
-import PokeSelectFile from './files/PokeSelectFile.json';
 
 export function loadPokemonList(config) {
   let PokeList = [];
@@ -25,4 +24,4 @@ export function loadPokemonList(config) {
   return PokeList;
 }
 
-export function loadPokemonSelect() {}
+//export function loadPokemonSelect() {}
