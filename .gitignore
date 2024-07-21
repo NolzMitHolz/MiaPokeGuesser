@@ -8,8 +8,6 @@
 # testing
 /coverage
 
-src/files/
-
 # production
 /build
 

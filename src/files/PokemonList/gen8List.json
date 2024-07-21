@@ -1,0 +1,718 @@
+[
+  {
+    "id": " 0810",
+    "name": "Chimpep / Grookey",
+    "types": [
+      "Pflanze"
+    ]
+  },
+  {
+    "id": "0811",
+    "name": "Chimstix / Thwackey",
+    "types": [
+      "Pflanze"
+    ]
+  },
+  {
+    "id": "0812",
+    "name": "Gortrom / Rillaboom",
+    "types": [
+      "Pflanze"
+    ]
+  },
+  {
+    "id": "0813",
+    "name": "Hopplo / Scorbunny",
+    "types": [
+      "Feuer"
+    ]
+  },
+  {
+    "id": "0814",
+    "name": "Kickerlo / Raboot",
+    "types": [
+      "Feuer"
+    ]
+  },
+  {
+    "id": "0815",
+    "name": "Liberlo / Cinderace",
+    "types": [
+      "Feuer"
+    ]
+  },
+  {
+    "id": "0816",
+    "name": "Memmeon / Sobble",
+    "types": [
+      "Wasser"
+    ]
+  },
+  {
+    "id": "0817",
+    "name": "Phlegleon / Drizzile",
+    "types": [
+      "Wasser"
+    ]
+  },
+  {
+    "id": "0818",
+    "name": "Intelleon / Inteleon",
+    "types": [
+      "Wasser"
+    ]
+  },
+  {
+    "id": "0819",
+    "name": "Raffel / Skwovet",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "id": "0820",
+    "name": "Schlaraffel / Greedent",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "id": "0821",
+    "name": "Meikro / Rookidee",
+    "types": [
+      "Flug"
+    ]
+  },
+  {
+    "id": "0822",
+    "name": "Kranoviz / Corvisquire",
+    "types": [
+      "Flug"
+    ]
+  },
+  {
+    "id": "0823",
+    "name": "Krarmor / Corviknight",
+    "types": [
+      "Flug",
+      "Stahl"
+    ]
+  },
+  {
+    "id": "0824",
+    "name": "Sensect / Blipbug",
+    "types": [
+      "Käfer"
+    ]
+  },
+  {
+    "id": "0825",
+    "name": "Keradar / Dottler",
+    "types": [
+      "Käfer",
+      "Psycho"
+    ]
+  },
+  {
+    "id": "0826",
+    "name": "Maritellit / Orbeetle",
+    "types": [
+      "Käfer",
+      "Psycho"
+    ]
+  },
+  {
+    "id": "0827",
+    "name": "Kleptifux / Nickit",
+    "types": [
+      "Unlicht"
+    ]
+  },
+  {
+    "id": "0828",
+    "name": "Gaunux / Thievul",
+    "types": [
+      "Unlicht"
+    ]
+  },
+  {
+    "id": "0829",
+    "name": "Cottini / Gossifleur",
+    "types": [
+      "Pflanze"
+    ]
+  },
+  {
+    "id": "0830",
+    "name": "Cottomi / Eldegoss",
+    "types": [
+      "Pflanze"
+    ]
+  },
+  {
+    "id": "0831",
+    "name": "Wolly / Wooloo",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "id": "0832",
+    "name": "Zwollock / Dubwool",
+    "types": [
+      "Normal"
+    ]
+  },
+  {
+    "id": "0833",
+    "name": "Kamehaps / Chewtle",
+    "types": [
+      "Wasser"
+    ]
+  },
+  {
+    "id": "0834",
+    "name": "Kamalm / Drednaw",
+    "types": [
+      "Wasser",
+      "Gestein"
+    ]
+  },
+  {
+    "id": "0835",
+    "name": "Voldi / Yamper",
+    "types": [
+      "Elektro"
+    ]
+  },
+  {
+    "id": "0836",
+    "name": "Bellektro / Boltund",
+    "types": [
+      "Elektro"
+    ]
+  },
+  {
+    "id": "0837",
+    "name": "Klonkett / Rolycoly",
+    "types": [
+      "Gestein"
+    ]
+  },
+  {
+    "id": "0838",
+    "name": "Wagong / Carkol",
+    "types": [
+      "Gestein",
+      "Feuer"
+    ]
+  },
+  {
+    "id": "0839",
+    "name": "Montecarbo / Coalossal",
+    "types": [
+      "Gestein",
+      "Feuer"
+    ]
+  },
+  {
+    "id": "0840",
+    "name": "Knapfel / Applin",
+    "types": [
+      "Pflanze",
+      "Drache"
+    ]
+  },
+  {
+    "id": "0841",
+    "name": "Drapfel / Flapple",
+    "types": [
+      "Pflanze",
+      "Drache"
+    ]
+  },
+  {
+    "id": "0842",
+    "name": "Schlapfel / Appletun",
+    "types": [
+      "Pflanze",
+      "Drache"
+    ]
+  },
+  {
+    "id": "0843",
+    "name": "Salanga / Silicobra",
+    "types": [
+      "Boden"
+    ]
+  },
+  {
+    "id": "0844",
+    "name": "Sanaconda / Sandaconda",
+    "types": [
+      "Boden"
+    ]
+  },
+  {
+    "id": "0845",
+    "name": "Urgl / Cramorant",
+    "types": [
+      "Flug",
+      "Wasser"
+    ]
+  },
+  {
+    "id": "0846",
+    "name": "Pikuda / Arrokuda",
+    "types": [
+      "Wasser"
+    ]
+  },
+  {
+    "id": "0847",
+    "name": "Barrakiefa / Barraskewda",
+    "types": [
+      "Wasser"
+    ]
+  },
+  {
+    "id": "0848",
+    "name": "Toxel / Toxel",
+    "types": [
+      "Elektro",
+      "Gift"
+    ]
+  },
+  {
+    "id": "0849",
+    "name": "Riffex / Toxtricity",
+    "types": [
+      "Elektro",
+      "Gift"
+    ]
+  },
+  {
+    "id": "0850",
+    "name": "Thermopod / Sizzlipede",
+    "types": [
+      "Feuer",
+      "Käfer"
+    ]
+  },
+  {
+    "id": "0851",
+    "name": "Infernopod / Centiskorch",
+    "types": [
+      "Feuer",
+      "Käfer"
+    ]
+  },
+  {
+    "id": "0852",
+    "name": "Klopptopus / Clobbopus",
+    "types": [
+      "Kampf"
+    ]
+  },
+  {
+    "id": "0853",
+    "name": "Kaocto / Grapploct",
+    "types": [
+      "Kampf"
+    ]
+  },
+  {
+    "id": "0854",
+    "name": "Fatalitee / Sinistea",
+    "types": [
+      "Geist"
+    ]
+  },
+  {
+    "id": "0855",
+    "name": "Mortipot / Polteageist",
+    "types": [
+      "Geist"
+    ]
+  },
+  {
+    "id": "0856",
+    "name": "Brimova / Hatenna",
+    "types": [
+      "Psycho"
+    ]
+  },
+  {
+    "id": "0857",
+    "name": "Brimano / Hattrem",
+    "types": [
+      "Psycho"
+    ]
+  },
+  {
+    "id": "0858",
+    "name": "Silembrim / Hatterene",
+    "types": [
+      "Psycho",
+      "Fee"
+    ]
+  },
+  {
+    "id": "0859",
+    "name": "Bähmon / Impidimp",
+    "types": [
+      "Unlicht",
+      "Fee"
+    ]
+  },
+  {
+    "id": "0860",
+    "name": "Pelzebub / Morgrem",
+    "types": [
+      "Unlicht",
+      "Fee"
+    ]
+  },
+  {
+    "id": "0861",
+    "name": "Olangaar / Grimmsnarl",
+    "types": [
+      "Unlicht",
+      "Fee"
+    ]
+  },
+  {
+    "id": "0862",
+    "name": "Barrikadax / Obstagoon",
+    "types": [
+      "Unlicht",
+      "Normal"
+    ]
+  },
+  {
+    "id": "0863",
+    "name": "Mauzinger / Perrserker",
+    "types": [
+      "Stahl"
+    ]
+  },
+  {
+    "id": "0864",
+    "name": "Gorgasonn / Cursola",
+    "types": [
+      "Geist"
+    ]
+  },
+  {
+    "id": "0865",
+    "name": "Lauchzelot / Sirfetch’d",
+    "types": [
+      "Kampf"
+    ]
+  },
+  {
+    "id": "0866",
+    "name": "Pantifrost / Mr. Rime",
+    "types": [
+      "Eis",
+      "Psycho"
+    ]
+  },
+  {
+    "id": "0867",
+    "name": "Oghnatoll / Runerigus",
+    "types": [
+      "Boden",
+      "Geist"
+    ]
+  },
+  {
+    "id": "0868",
+    "name": "Hokumil / Milcery",
+    "types": [
+      "Fee"
+    ]
+  },
+  {
+    "id": "0869",
+    "name": "Pokusan / Alcremie",
+    "types": [
+      "Fee"
+    ]
+  },
+  {
+    "id": "0870",
+    "name": "Legios / Falinks",
+    "types": [
+      "Kampf"
+    ]
+  },
+  {
+    "id": "0871",
+    "name": "Britzigel / Pincurchin",
+    "types": [
+      "Elektro"
+    ]
+  },
+  {
+    "id": "0872",
+    "name": "Snomnom / Snom",
+    "types": [
+      "Eis",
+      "Käfer"
+    ]
+  },
+  {
+    "id": "0873",
+    "name": "Mottineva / Frosmoth",
+    "types": [
+      "Eis",
+      "Käfer"
+    ]
+  },
+  {
+    "id": "0874",
+    "name": "Humanolith / Stonjourner",
+    "types": [
+      "Gestein"
+    ]
+  },
+  {
+    "id": "0875",
+    "name": "Kubuin / Eiscue",
+    "types": [
+      "Eis"
+    ]
+  },
+  {
+    "id": "0876",
+    "name": "Servol / Indeedee",
+    "types": [
+      "Psycho",
+      "Normal"
+    ]
+  },
+  {
+    "id": "0877",
+    "name": "Morpeko / Morpeko",
+    "types": [
+      "Elektro",
+      "Unlicht"
+    ]
+  },
+  {
+    "id": "0878",
+    "name": "Kupfanti / Cufant",
+    "types": [
+      "Stahl"
+    ]
+  },
+  {
+    "id": "0879",
+    "name": "Patinaraja / Copperajah",
+    "types": [
+      "Stahl"
+    ]
+  },
+  {
+    "id": "0880",
+    "name": "Lectragon / Dracozolt",
+    "types": [
+      "Elektro",
+      "Drache"
+    ]
+  },
+  {
+    "id": "0881",
+    "name": "Lecryodon / Arctozolt",
+    "types": [
+      "Elektro",
+      "Eis"
+    ]
+  },
+  {
+    "id": "0882",
+    "name": "Pescragon / Dracovish",
+    "types": [
+      "Wasser",
+      "Drache"
+    ]
+  },
+  {
+    "id": "0883",
+    "name": "Pescryodon / Arctovish",
+    "types": [
+      "Wasser",
+      "Eis"
+    ]
+  },
+  {
+    "id": "0884",
+    "name": "Duraludon / Duraludon",
+    "types": [
+      "Stahl",
+      "Drache"
+    ]
+  },
+  {
+    "id": "0885",
+    "name": "Grolldra / Dreepy",
+    "types": [
+      "Drache",
+      "Geist"
+    ]
+  },
+  {
+    "id": "0886",
+    "name": "Phandra / Drakloak",
+    "types": [
+      "Drache",
+      "Geist"
+    ]
+  },
+  {
+    "id": "0887",
+    "name": "Katapuldra / Dragapult",
+    "types": [
+      "Drache",
+      "Geist"
+    ]
+  },
+  {
+    "id": "0888",
+    "name": "Zacian / Zacian",
+    "types": [
+      "Fee"
+    ]
+  },
+  {
+    "id": "0889",
+    "name": "Zamazenta / Zamazenta",
+    "types": [
+      "Kampf"
+    ]
+  },
+  {
+    "id": "0890",
+    "name": "Endynalos / Eternatus",
+    "types": [
+      "Gift",
+      "Drache"
+    ]
+  },
+  {
+    "id": "0891",
+    "name": "Dakuma / Kubfu",
+    "types": [
+      "Kampf"
+    ]
+  },
+  {
+    "id": "0892",
+    "name": "Wulaosu / Urshifu",
+    "types": [
+      "Kampf",
+      "Unlicht"
+    ]
+  },
+  {
+    "id": "0893",
+    "name": "Zarude / Zarude",
+    "types": [
+      "Unlicht",
+      "Pflanze"
+    ]
+  },
+  {
+    "id": "0894",
+    "name": "Regieleki / Regieleki",
+    "types": [
+      "Elektro"
+    ]
+  },
+  {
+    "id": "0895",
+    "name": "Regidrago / Regidrago",
+    "types": [
+      "Drache"
+    ]
+  },
+  {
+    "id": "0896",
+    "name": "Polaross / Glastrier",
+    "types": [
+      "Eis"
+    ]
+  },
+  {
+    "id": "0897",
+    "name": "Phantoross / Spectrier",
+    "types": [
+      "Geist"
+    ]
+  },
+  {
+    "id": "0898",
+    "name": "Coronospa / Calyrex",
+    "types": [
+      "Psycho",
+      "Pflanze"
+    ]
+  },
+  {
+    "id": "0899",
+    "name": "Damythir / Wyrdeer",
+    "types": [
+      "Normal",
+      "Psycho"
+    ]
+  },
+  {
+    "id": "0900",
+    "name": "Axantor / Kleavor",
+    "types": [
+      "Käfer",
+      "Gestein"
+    ]
+  },
+  {
+    "id": "0901",
+    "name": "Ursaluna / Ursaluna",
+    "types": [
+      "Boden",
+      "Normal"
+    ]
+  },
+  {
+    "id": "0902",
+    "name": "Salmagnis / Basculegion",
+    "types": [
+      "Wasser",
+      "Geist"
+    ]
+  },
+  {
+    "id": "0903",
+    "name": "Snieboss / Sneasler",
+    "types": [
+      "Kampf",
+      "Gift"
+    ]
+  },
+  {
+    "id": "0904",
+    "name": "Myriador / Overqwil",
+    "types": [
+      "Unlicht",
+      "Gift"
+    ]
+  },
+  {
+    "id": "0905",
+    "name": "Cupidos / Enamorus",
+    "types": [
+      "Fee",
+      "Flug"
+    ]
+  }
+]

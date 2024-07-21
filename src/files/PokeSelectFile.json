@@ -1,0 +1,4102 @@
+[
+  {
+    "value": 1,
+    "label": "Bisasam / Bulbasaur"
+  },
+  {
+    "value": 2,
+    "label": "Bisaknosp / Ivysaur"
+  },
+  {
+    "value": 3,
+    "label": "Bisaflor / Venusaur"
+  },
+  {
+    "value": 4,
+    "label": "Glumanda / Charmander"
+  },
+  {
+    "value": 5,
+    "label": "Glutexo / Charmeleon"
+  },
+  {
+    "value": 6,
+    "label": "Glurak / Charizard"
+  },
+  {
+    "value": 7,
+    "label": "Schiggy / Squirtle"
+  },
+  {
+    "value": 8,
+    "label": "Schillok / Wartortle"
+  },
+  {
+    "value": 9,
+    "label": "Turtok / Blastoise"
+  },
+  {
+    "value": 10,
+    "label": "Raupy / Caterpie"
+  },
+  {
+    "value": 11,
+    "label": "Safcon / Metapod"
+  },
+  {
+    "value": 12,
+    "label": "Smettbo / Butterfree"
+  },
+  {
+    "value": 13,
+    "label": "Hornliu / Weedle"
+  },
+  {
+    "value": 14,
+    "label": "Kokuna / Kakuna"
+  },
+  {
+    "value": 15,
+    "label": "Bibor / Beedrill"
+  },
+  {
+    "value": 16,
+    "label": "Taubsi / Pidgey"
+  },
+  {
+    "value": 17,
+    "label": "Tauboga / Pidgeotto"
+  },
+  {
+    "value": 18,
+    "label": "Tauboss / Pidgeot"
+  },
+  {
+    "value": 19,
+    "label": "Rattfratz / Rattata"
+  },
+  {
+    "value": 20,
+    "label": "Rattikarl / Raticate"
+  },
+  {
+    "value": 21,
+    "label": "Habitak / Spearow"
+  },
+  {
+    "value": 22,
+    "label": "Ibitak / Fearow"
+  },
+  {
+    "value": 23,
+    "label": "Rettan / Ekans"
+  },
+  {
+    "value": 24,
+    "label": "Arbok / Arbok"
+  },
+  {
+    "value": 25,
+    "label": "Pikachu / Pikachu"
+  },
+  {
+    "value": 26,
+    "label": "Raichu / Raichu"
+  },
+  {
+    "value": 27,
+    "label": "Sandan / Sandshrew"
+  },
+  {
+    "value": 28,
+    "label": "Sandamer / Sandslash"
+  },
+  {
+    "value": 29,
+    "label": "Nidoran♀ / Nidoran♀"
+  },
+  {
+    "value": 30,
+    "label": "Nidorina / Nidorina"
+  },
+  {
+    "value": 31,
+    "label": "Nidoqueen / Nidoqueen"
+  },
+  {
+    "value": 32,
+    "label": "Nidoran♂ / Nidoran♂"
+  },
+  {
+    "value": 33,
+    "label": "Nidorino / Nidorino"
+  },
+  {
+    "value": 34,
+    "label": "Nidoking / Nidoking"
+  },
+  {
+    "value": 35,
+    "label": "Piepi / Clefairy"
+  },
+  {
+    "value": 36,
+    "label": "Pixi / Clefable"
+  },
+  {
+    "value": 37,
+    "label": "Vulpix / Vulpix"
+  },
+  {
+    "value": 38,
+    "label": "Vulnona / Ninetales"
+  },
+  {
+    "value": 39,
+    "label": "Pummeluff / Jigglypuff"
+  },
+  {
+    "value": 40,
+    "label": "Knuddeluff / Wigglytuff"
+  },
+  {
+    "value": 41,
+    "label": "Zubat / Zubat"
+  },
+  {
+    "value": 42,
+    "label": "Golbat / Golbat"
+  },
+  {
+    "value": 43,
+    "label": "Myrapla / Oddish"
+  },
+  {
+    "value": 44,
+    "label": "Duflor / Gloom"
+  },
+  {
+    "value": 45,
+    "label": "Giflor / Vileplume"
+  },
+  {
+    "value": 46,
+    "label": "Paras / Paras"
+  },
+  {
+    "value": 47,
+    "label": "Parasek / Parasect"
+  },
+  {
+    "value": 48,
+    "label": "Bluzuk / Venonat"
+  },
+  {
+    "value": 49,
+    "label": "Omot / Venomoth"
+  },
+  {
+    "value": 50,
+    "label": "Digda / Diglett"
+  },
+  {
+    "value": 51,
+    "label": "Digdri / Dugtrio"
+  },
+  {
+    "value": 52,
+    "label": "Mauzi / Meowth"
+  },
+  {
+    "value": 53,
+    "label": "Snobilikat / Persian"
+  },
+  {
+    "value": 54,
+    "label": "Enton / Psyduck"
+  },
+  {
+    "value": 55,
+    "label": "Entoron / Golduck"
+  },
+  {
+    "value": 56,
+    "label": "Menki / Mankey"
+  },
+  {
+    "value": 57,
+    "label": "Rasaff / Primeape"
+  },
+  {
+    "value": 58,
+    "label": "Fukano / Growlithe"
+  },
+  {
+    "value": 59,
+    "label": "Arkani / Arcanine"
+  },
+  {
+    "value": 60,
+    "label": "Quapsel / Poliwag"
+  },
+  {
+    "value": 61,
+    "label": "Quaputzi / Poliwhirl"
+  },
+  {
+    "value": 62,
+    "label": "Quappo / Poliwrath"
+  },
+  {
+    "value": 63,
+    "label": "Abra / Abra"
+  },
+  {
+    "value": 64,
+    "label": "Kadabra / Kadabra"
+  },
+  {
+    "value": 65,
+    "label": "Simsala / Alakazam"
+  },
+  {
+    "value": 66,
+    "label": "Machollo / Machop"
+  },
+  {
+    "value": 67,
+    "label": "Maschock / Machoke"
+  },
+  {
+    "value": 68,
+    "label": "Machomei / Machamp"
+  },
+  {
+    "value": 69,
+    "label": "Knofensa / Bellsprout"
+  },
+  {
+    "value": 70,
+    "label": "Ultrigaria / Weepinbell"
+  },
+  {
+    "value": 71,
+    "label": "Sarzenia / Victreebel"
+  },
+  {
+    "value": 72,
+    "label": "Tentacha / Tentacool"
+  },
+  {
+    "value": 73,
+    "label": "Tentoxa / Tentacruel"
+  },
+  {
+    "value": 74,
+    "label": "Kleinstein / Geodude"
+  },
+  {
+    "value": 75,
+    "label": "Georok / Graveler"
+  },
+  {
+    "value": 76,
+    "label": "Geowaz / Golem"
+  },
+  {
+    "value": 77,
+    "label": "Ponita / Ponyta"
+  },
+  {
+    "value": 78,
+    "label": "Gallopa / Rapidash"
+  },
+  {
+    "value": 79,
+    "label": "Flegmon / Slowpoke"
+  },
+  {
+    "value": 80,
+    "label": "Lahmus / Slowbro"
+  },
+  {
+    "value": 81,
+    "label": "Magnetilo / Magnemite"
+  },
+  {
+    "value": 82,
+    "label": "Magneton / Magneton"
+  },
+  {
+    "value": 83,
+    "label": "Porenta / Farfetch’d"
+  },
+  {
+    "value": 84,
+    "label": "Dodu / Doduo"
+  },
+  {
+    "value": 85,
+    "label": "Dodri / Dodrio"
+  },
+  {
+    "value": 86,
+    "label": "Jurob / Seel"
+  },
+  {
+    "value": 87,
+    "label": "Jugong / Dewgong"
+  },
+  {
+    "value": 88,
+    "label": "Sleima / Grimer"
+  },
+  {
+    "value": 89,
+    "label": "Sleimok / Muk"
+  },
+  {
+    "value": 90,
+    "label": "Muschas / Shellder"
+  },
+  {
+    "value": 91,
+    "label": "Austos / Cloyster"
+  },
+  {
+    "value": 92,
+    "label": "Nebulak / Gastly"
+  },
+  {
+    "value": 93,
+    "label": "Alpollo / Haunter"
+  },
+  {
+    "value": 94,
+    "label": "Gengar / Gengar"
+  },
+  {
+    "value": 95,
+    "label": "Onix / Onix"
+  },
+  {
+    "value": 96,
+    "label": "Traumato / Drowzee"
+  },
+  {
+    "value": 97,
+    "label": "Hypno / Hypno"
+  },
+  {
+    "value": 98,
+    "label": "Krabby / Krabby"
+  },
+  {
+    "value": 99,
+    "label": "Kingler / Kingler"
+  },
+  {
+    "value": 100,
+    "label": "Voltobal / Voltorb"
+  },
+  {
+    "value": 101,
+    "label": "Lektrobal / Electrode"
+  },
+  {
+    "value": 102,
+    "label": "Owei / Exeggcute"
+  },
+  {
+    "value": 103,
+    "label": "Kokowei / Exeggutor"
+  },
+  {
+    "value": 104,
+    "label": "Tragosso / Cubone"
+  },
+  {
+    "value": 105,
+    "label": "Knogga / Marowak"
+  },
+  {
+    "value": 106,
+    "label": "Kicklee / Hitmonlee"
+  },
+  {
+    "value": 107,
+    "label": "Nockchan / Hitmonchan"
+  },
+  {
+    "value": 108,
+    "label": "Schlurp / Lickitung"
+  },
+  {
+    "value": 109,
+    "label": "Smogon / Koffing"
+  },
+  {
+    "value": 110,
+    "label": "Smogmog / Weezing"
+  },
+  {
+    "value": 111,
+    "label": "Rihorn / Rhyhorn"
+  },
+  {
+    "value": 112,
+    "label": "Rizeros / Rhydon"
+  },
+  {
+    "value": 113,
+    "label": "Chaneira / Chansey"
+  },
+  {
+    "value": 114,
+    "label": "Tangela / Tangela"
+  },
+  {
+    "value": 115,
+    "label": "Kangama / Kangaskhan"
+  },
+  {
+    "value": 116,
+    "label": "Seeper / Horsea"
+  },
+  {
+    "value": 117,
+    "label": "Seemon / Seadra"
+  },
+  {
+    "value": 118,
+    "label": "Goldini / Goldeen"
+  },
+  {
+    "value": 119,
+    "label": "Golking / Seaking"
+  },
+  {
+    "value": 120,
+    "label": "Sterndu / Staryu"
+  },
+  {
+    "value": 121,
+    "label": "Starmie / Starmie"
+  },
+  {
+    "value": 122,
+    "label": "Pantimos / Mr. Mime"
+  },
+  {
+    "value": 123,
+    "label": "Sichlor / Scyther"
+  },
+  {
+    "value": 124,
+    "label": "Rossana / Jynx"
+  },
+  {
+    "value": 125,
+    "label": "Elektek / Electabuzz"
+  },
+  {
+    "value": 126,
+    "label": "Magmar / Magmar"
+  },
+  {
+    "value": 127,
+    "label": "Pinsir / Pinsir"
+  },
+  {
+    "value": 128,
+    "label": "Tauros / Tauros"
+  },
+  {
+    "value": 129,
+    "label": "Karpador / Magikarp"
+  },
+  {
+    "value": 130,
+    "label": "Garados / Gyarados"
+  },
+  {
+    "value": 131,
+    "label": "Lapras / Lapras"
+  },
+  {
+    "value": 132,
+    "label": "Ditto / Ditto"
+  },
+  {
+    "value": 133,
+    "label": "Evoli / Eevee"
+  },
+  {
+    "value": 134,
+    "label": "Aquana / Vaporeon"
+  },
+  {
+    "value": 135,
+    "label": "Blitza / Jolteon"
+  },
+  {
+    "value": 136,
+    "label": "Flamara / Flareon"
+  },
+  {
+    "value": 137,
+    "label": "Porygon / Porygon"
+  },
+  {
+    "value": 138,
+    "label": "Amonitas / Omanyte"
+  },
+  {
+    "value": 139,
+    "label": "Amoroso / Omastar"
+  },
+  {
+    "value": 140,
+    "label": "Kabuto / Kabuto"
+  },
+  {
+    "value": 141,
+    "label": "Kabutops / Kabutops"
+  },
+  {
+    "value": 142,
+    "label": "Aerodactyl / Aerodactyl"
+  },
+  {
+    "value": 143,
+    "label": "Relaxo / Snorlax"
+  },
+  {
+    "value": 144,
+    "label": "Arktos / Articuno"
+  },
+  {
+    "value": 145,
+    "label": "Zapdos / Zapdos"
+  },
+  {
+    "value": 146,
+    "label": "Lavados / Moltres"
+  },
+  {
+    "value": 147,
+    "label": "Dratini / Dratini"
+  },
+  {
+    "value": 148,
+    "label": "Dragonir / Dragonair"
+  },
+  {
+    "value": 149,
+    "label": "Dragoran / Dragonite"
+  },
+  {
+    "value": 150,
+    "label": "Mewtu / Mewtwo"
+  },
+  {
+    "value": 151,
+    "label": "Mew / Mew"
+  },
+  {
+    "value": 152,
+    "label": "Endivie / Chikorita"
+  },
+  {
+    "value": 153,
+    "label": "Lorblatt / Bayleef"
+  },
+  {
+    "value": 154,
+    "label": "Meganie / Meganium"
+  },
+  {
+    "value": 155,
+    "label": "Feurigel / Cyndaquil"
+  },
+  {
+    "value": 156,
+    "label": "Igelavar / Quilava"
+  },
+  {
+    "value": 157,
+    "label": "Tornupto / Typhlosion"
+  },
+  {
+    "value": 158,
+    "label": "Karnimani / Totodile"
+  },
+  {
+    "value": 159,
+    "label": "Tyracroc / Croconaw"
+  },
+  {
+    "value": 160,
+    "label": "Impergator / Feraligatr"
+  },
+  {
+    "value": 161,
+    "label": "Wiesor / Sentret"
+  },
+  {
+    "value": 162,
+    "label": "Wiesenior / Furret"
+  },
+  {
+    "value": 163,
+    "label": "Hoothoot / Hoothoot"
+  },
+  {
+    "value": 164,
+    "label": "Noctuh / Noctowl"
+  },
+  {
+    "value": 165,
+    "label": "Ledyba / Ledyba"
+  },
+  {
+    "value": 166,
+    "label": "Ledian / Ledian"
+  },
+  {
+    "value": 167,
+    "label": "Webarak / Spinarak"
+  },
+  {
+    "value": 168,
+    "label": "Ariados / Ariados"
+  },
+  {
+    "value": 169,
+    "label": "Iksbat / Crobat"
+  },
+  {
+    "value": 170,
+    "label": "Lampi / Chinchou"
+  },
+  {
+    "value": 171,
+    "label": "Lanturn / Lanturn"
+  },
+  {
+    "value": 172,
+    "label": "Pichu / Pichu"
+  },
+  {
+    "value": 173,
+    "label": "Pii / Cleffa"
+  },
+  {
+    "value": 174,
+    "label": "Fluffeluff / Igglybuff"
+  },
+  {
+    "value": 175,
+    "label": "Togepi / Togepi"
+  },
+  {
+    "value": 176,
+    "label": "Togetic / Togetic"
+  },
+  {
+    "value": 177,
+    "label": "Natu / Natu"
+  },
+  {
+    "value": 178,
+    "label": "Xatu / Xatu"
+  },
+  {
+    "value": 179,
+    "label": "Voltilamm / Mareep"
+  },
+  {
+    "value": 180,
+    "label": "Waaty / Flaaffy"
+  },
+  {
+    "value": 181,
+    "label": "Ampharos / Ampharos"
+  },
+  {
+    "value": 182,
+    "label": "Blubella / Bellossom"
+  },
+  {
+    "value": 183,
+    "label": "Marill / Marill"
+  },
+  {
+    "value": 184,
+    "label": "Azumarill / Azumarill"
+  },
+  {
+    "value": 185,
+    "label": "Mogelbaum / Sudowoodo"
+  },
+  {
+    "value": 186,
+    "label": "Quaxo / Politoed"
+  },
+  {
+    "value": 187,
+    "label": "Hoppspross / Hoppip"
+  },
+  {
+    "value": 188,
+    "label": "Hubelupf / Skiploom"
+  },
+  {
+    "value": 189,
+    "label": "Papungha / Jumpluff"
+  },
+  {
+    "value": 190,
+    "label": "Griffel / Aipom"
+  },
+  {
+    "value": 191,
+    "label": "Sonnkern / Sunkern"
+  },
+  {
+    "value": 192,
+    "label": "Sonnflora / Sunflora"
+  },
+  {
+    "value": 193,
+    "label": "Yanma / Yanma"
+  },
+  {
+    "value": 194,
+    "label": "Felino / Wooper"
+  },
+  {
+    "value": 195,
+    "label": "Morlord / Quagsire"
+  },
+  {
+    "value": 196,
+    "label": "Psiana / Espeon"
+  },
+  {
+    "value": 197,
+    "label": "Nachtara / Umbreon"
+  },
+  {
+    "value": 198,
+    "label": "Kramurx / Murkrow"
+  },
+  {
+    "value": 199,
+    "label": "Laschoking / Slowking"
+  },
+  {
+    "value": 200,
+    "label": "Traunfugil / Misdreavus"
+  },
+  {
+    "value": 201,
+    "label": "Icognito / Unown"
+  },
+  {
+    "value": 202,
+    "label": "Woingenau / Wobbuffet"
+  },
+  {
+    "value": 203,
+    "label": "Girafarig / Girafarig"
+  },
+  {
+    "value": 204,
+    "label": "Tannza / Pineco"
+  },
+  {
+    "value": 205,
+    "label": "Forstellka / Forretress"
+  },
+  {
+    "value": 206,
+    "label": "Dummisel / Dunsparce"
+  },
+  {
+    "value": 207,
+    "label": "Skorgla / Gligar"
+  },
+  {
+    "value": 208,
+    "label": "Stahlos / Steelix"
+  },
+  {
+    "value": 209,
+    "label": "Snubbull / Snubbull"
+  },
+  {
+    "value": 210,
+    "label": "Granbull / Granbull"
+  },
+  {
+    "value": 211,
+    "label": "Baldorfish / Qwilfish"
+  },
+  {
+    "value": 212,
+    "label": "Scherox / Scizor"
+  },
+  {
+    "value": 213,
+    "label": "Pottrott / Shuckle"
+  },
+  {
+    "value": 214,
+    "label": "Skaraborn / Heracross"
+  },
+  {
+    "value": 215,
+    "label": "Sniebel / Sneasel"
+  },
+  {
+    "value": 216,
+    "label": "Teddiursa / Teddiursa"
+  },
+  {
+    "value": 217,
+    "label": "Ursaring / Ursaring"
+  },
+  {
+    "value": 218,
+    "label": "Schneckmag / Slugma"
+  },
+  {
+    "value": 219,
+    "label": "Magcargo / Magcargo"
+  },
+  {
+    "value": 220,
+    "label": "Quiekel / Swinub"
+  },
+  {
+    "value": 221,
+    "label": "Keifel / Piloswine"
+  },
+  {
+    "value": 222,
+    "label": "Corasonn / Corsola"
+  },
+  {
+    "value": 223,
+    "label": "Remoraid / Remoraid"
+  },
+  {
+    "value": 224,
+    "label": "Octillery / Octillery"
+  },
+  {
+    "value": 225,
+    "label": "Botogel / Delibird"
+  },
+  {
+    "value": 226,
+    "label": "Mantax / Mantine"
+  },
+  {
+    "value": 227,
+    "label": "Panzaeron / Skarmory"
+  },
+  {
+    "value": 228,
+    "label": "Hunduster / Houndour"
+  },
+  {
+    "value": 229,
+    "label": "Hundemon / Houndoom"
+  },
+  {
+    "value": 230,
+    "label": "Seedraking / Kingdra"
+  },
+  {
+    "value": 231,
+    "label": "Phanpy / Phanpy"
+  },
+  {
+    "value": 232,
+    "label": "Donphan / Donphan"
+  },
+  {
+    "value": 233,
+    "label": "Porygon2 / Porygon2"
+  },
+  {
+    "value": 234,
+    "label": "Damhirplex / Stantler"
+  },
+  {
+    "value": 235,
+    "label": "Farbeagle / Smeargle"
+  },
+  {
+    "value": 236,
+    "label": "Rabauz / Tyrogue"
+  },
+  {
+    "value": 237,
+    "label": "Kapoera / Hitmontop"
+  },
+  {
+    "value": 238,
+    "label": "Kussilla / Smoochum"
+  },
+  {
+    "value": 239,
+    "label": "Elekid / Elekid"
+  },
+  {
+    "value": 240,
+    "label": "Magby / Magby"
+  },
+  {
+    "value": 241,
+    "label": "Miltank / Miltank"
+  },
+  {
+    "value": 242,
+    "label": "Heiteira / Blissey"
+  },
+  {
+    "value": 243,
+    "label": "Raikou / Raikou"
+  },
+  {
+    "value": 244,
+    "label": "Entei / Entei"
+  },
+  {
+    "value": 245,
+    "label": "Suicune / Suicune"
+  },
+  {
+    "value": 246,
+    "label": "Larvitar / Larvitar"
+  },
+  {
+    "value": 247,
+    "label": "Pupitar / Pupitar"
+  },
+  {
+    "value": 248,
+    "label": "Despotar / Tyranitar"
+  },
+  {
+    "value": 249,
+    "label": "Lugia / Lugia"
+  },
+  {
+    "value": 250,
+    "label": "Ho-Oh / Ho-Oh"
+  },
+  {
+    "value": 251,
+    "label": "Celebi / Celebi"
+  },
+  {
+    "value": 252,
+    "label": "Geckarbor / Treecko"
+  },
+  {
+    "value": 253,
+    "label": "Reptain / Grovyle"
+  },
+  {
+    "value": 254,
+    "label": "Gewaldro / Sceptile"
+  },
+  {
+    "value": 255,
+    "label": "Flemmli / Torchic"
+  },
+  {
+    "value": 256,
+    "label": "Jungglut / Combusken"
+  },
+  {
+    "value": 257,
+    "label": "Lohgock / Blaziken"
+  },
+  {
+    "value": 258,
+    "label": "Hydropi / Mudkip"
+  },
+  {
+    "value": 259,
+    "label": "Moorabbel / Marshtomp"
+  },
+  {
+    "value": 260,
+    "label": "Sumpex / Swampert"
+  },
+  {
+    "value": 261,
+    "label": "Fiffyen / Poochyena"
+  },
+  {
+    "value": 262,
+    "label": "Magnayen / Mightyena"
+  },
+  {
+    "value": 263,
+    "label": "Zigzachs / Zigzagoon"
+  },
+  {
+    "value": 264,
+    "label": "Geradaks / Linoone"
+  },
+  {
+    "value": 265,
+    "label": "Waumpel / Wurmple"
+  },
+  {
+    "value": 266,
+    "label": "Schaloko / Silcoon"
+  },
+  {
+    "value": 267,
+    "label": "Papinella / Beautifly"
+  },
+  {
+    "value": 268,
+    "label": "Panekon / Cascoon"
+  },
+  {
+    "value": 269,
+    "label": "Pudox / Dustox"
+  },
+  {
+    "value": 270,
+    "label": "Loturzel / Lotad"
+  },
+  {
+    "value": 271,
+    "label": "Lombrero / Lombre"
+  },
+  {
+    "value": 272,
+    "label": "Kappalores / Ludicolo"
+  },
+  {
+    "value": 273,
+    "label": "Samurzel / Seedot"
+  },
+  {
+    "value": 274,
+    "label": "Blanas / Nuzleaf"
+  },
+  {
+    "value": 275,
+    "label": "Tengulist / Shiftry"
+  },
+  {
+    "value": 276,
+    "label": "Schwalbini / Taillow"
+  },
+  {
+    "value": 277,
+    "label": "Schwalboss / Swellow"
+  },
+  {
+    "value": 278,
+    "label": "Wingull / Wingull"
+  },
+  {
+    "value": 279,
+    "label": "Pelipper / Pelipper"
+  },
+  {
+    "value": 280,
+    "label": "Trasla / Ralts"
+  },
+  {
+    "value": 281,
+    "label": "Kirlia / Kirlia"
+  },
+  {
+    "value": 282,
+    "label": "Guardevoir / Gardevoir"
+  },
+  {
+    "value": 283,
+    "label": "Gehweiher / Surskit"
+  },
+  {
+    "value": 284,
+    "label": "Maskeregen / Masquerain"
+  },
+  {
+    "value": 285,
+    "label": "Knilz / Shroomish"
+  },
+  {
+    "value": 286,
+    "label": "Kapilz / Breloom"
+  },
+  {
+    "value": 287,
+    "label": "Bummelz / Slakoth"
+  },
+  {
+    "value": 288,
+    "label": "Muntier / Vigoroth"
+  },
+  {
+    "value": 289,
+    "label": "Letarking / Slaking"
+  },
+  {
+    "value": 290,
+    "label": "Nincada / Nincada"
+  },
+  {
+    "value": 291,
+    "label": "Ninjask / Ninjask"
+  },
+  {
+    "value": 292,
+    "label": "Ninjatom / Shedinja"
+  },
+  {
+    "value": 293,
+    "label": "Flurmel / Whismur"
+  },
+  {
+    "value": 294,
+    "label": "Krakeelo / Loudred"
+  },
+  {
+    "value": 295,
+    "label": "Krawumms / Exploud"
+  },
+  {
+    "value": 296,
+    "label": "Makuhita / Makuhita"
+  },
+  {
+    "value": 297,
+    "label": "Hariyama / Hariyama"
+  },
+  {
+    "value": 298,
+    "label": "Azurill / Azurill"
+  },
+  {
+    "value": 299,
+    "label": "Nasgnet / Nosepass"
+  },
+  {
+    "value": 300,
+    "label": "Eneco / Skitty"
+  },
+  {
+    "value": 301,
+    "label": "Enekoro / Delcatty"
+  },
+  {
+    "value": 302,
+    "label": "Zobiris / Sableye"
+  },
+  {
+    "value": 303,
+    "label": "Flunkifer / Mawile"
+  },
+  {
+    "value": 304,
+    "label": "Stollunior / Aron"
+  },
+  {
+    "value": 305,
+    "label": "Stollrak / Lairon"
+  },
+  {
+    "value": 306,
+    "label": "Stolloss / Aggron"
+  },
+  {
+    "value": 307,
+    "label": "Meditie / Meditite"
+  },
+  {
+    "value": 308,
+    "label": "Meditalis / Medicham"
+  },
+  {
+    "value": 309,
+    "label": "Frizelbliz / Electrike"
+  },
+  {
+    "value": 310,
+    "label": "Voltenso / Manectric"
+  },
+  {
+    "value": 311,
+    "label": "Plusle / Plusle"
+  },
+  {
+    "value": 312,
+    "label": "Minun / Minun"
+  },
+  {
+    "value": 313,
+    "label": "Volbeat / Volbeat"
+  },
+  {
+    "value": 314,
+    "label": "Illumise / Illumise"
+  },
+  {
+    "value": 315,
+    "label": "Roselia / Roselia"
+  },
+  {
+    "value": 316,
+    "label": "Schluppuck / Gulpin"
+  },
+  {
+    "value": 317,
+    "label": "Schlukwech / Swalot"
+  },
+  {
+    "value": 318,
+    "label": "Kanivanha / Carvanha"
+  },
+  {
+    "value": 319,
+    "label": "Tohaido / Sharpedo"
+  },
+  {
+    "value": 320,
+    "label": "Wailmer / Wailmer"
+  },
+  {
+    "value": 321,
+    "label": "Wailord / Wailord"
+  },
+  {
+    "value": 322,
+    "label": "Camaub / Numel"
+  },
+  {
+    "value": 323,
+    "label": "Camerupt / Camerupt"
+  },
+  {
+    "value": 324,
+    "label": "Qurtel / Torkoal"
+  },
+  {
+    "value": 325,
+    "label": "Spoink / Spoink"
+  },
+  {
+    "value": 326,
+    "label": "Groink / Grumpig"
+  },
+  {
+    "value": 327,
+    "label": "Pandir / Spinda"
+  },
+  {
+    "value": 328,
+    "label": "Knacklion / Trapinch"
+  },
+  {
+    "value": 329,
+    "label": "Vibrava / Vibrava"
+  },
+  {
+    "value": 330,
+    "label": "Libelldra / Flygon"
+  },
+  {
+    "value": 331,
+    "label": "Tuska / Cacnea"
+  },
+  {
+    "value": 332,
+    "label": "Noktuska / Cacturne"
+  },
+  {
+    "value": 333,
+    "label": "Wablu / Swablu"
+  },
+  {
+    "value": 334,
+    "label": "Altaria / Altaria"
+  },
+  {
+    "value": 335,
+    "label": "Sengo / Zangoose"
+  },
+  {
+    "value": 336,
+    "label": "Vipitis / Seviper"
+  },
+  {
+    "value": 337,
+    "label": "Lunastein / Lunatone"
+  },
+  {
+    "value": 338,
+    "label": "Sonnfel / Solrock"
+  },
+  {
+    "value": 339,
+    "label": "Schmerbe / Barboach"
+  },
+  {
+    "value": 340,
+    "label": "Welsar / Whiscash"
+  },
+  {
+    "value": 341,
+    "label": "Krebscorps / Corphish"
+  },
+  {
+    "value": 342,
+    "label": "Krebutack / Crawdaunt"
+  },
+  {
+    "value": 343,
+    "label": "Puppance / Baltoy"
+  },
+  {
+    "value": 344,
+    "label": "Lepumentas / Claydol"
+  },
+  {
+    "value": 345,
+    "label": "Liliep / Lileep"
+  },
+  {
+    "value": 346,
+    "label": "Wielie / Cradily"
+  },
+  {
+    "value": 347,
+    "label": "Anorith / Anorith"
+  },
+  {
+    "value": 348,
+    "label": "Armaldo / Armaldo"
+  },
+  {
+    "value": 349,
+    "label": "Barschwa / Feebas"
+  },
+  {
+    "value": 350,
+    "label": "Milotic / Milotic"
+  },
+  {
+    "value": 351,
+    "label": "Formeo / Castform"
+  },
+  {
+    "value": 352,
+    "label": "Kecleon / Kecleon"
+  },
+  {
+    "value": 353,
+    "label": "Shuppet / Shuppet"
+  },
+  {
+    "value": 354,
+    "label": "Banette / Banette"
+  },
+  {
+    "value": 355,
+    "label": "Zwirrlicht / Duskull"
+  },
+  {
+    "value": 356,
+    "label": "Zwirrklop / Dusclops"
+  },
+  {
+    "value": 357,
+    "label": "Tropius / Tropius"
+  },
+  {
+    "value": 358,
+    "label": "Palimpalim / Chimecho"
+  },
+  {
+    "value": 359,
+    "label": "Absol / Absol"
+  },
+  {
+    "value": 360,
+    "label": "Isso / Wynaut"
+  },
+  {
+    "value": 361,
+    "label": "Schneppke / Snorunt"
+  },
+  {
+    "value": 362,
+    "label": "Firnontor / Glalie"
+  },
+  {
+    "value": 363,
+    "label": "Seemops / Spheal"
+  },
+  {
+    "value": 364,
+    "label": "Seejong / Sealeo"
+  },
+  {
+    "value": 365,
+    "label": "Walraisa / Walrein"
+  },
+  {
+    "value": 366,
+    "label": "Perlu / Clamperl"
+  },
+  {
+    "value": 367,
+    "label": "Aalabyss / Huntail"
+  },
+  {
+    "value": 368,
+    "label": "Saganabyss / Gorebyss"
+  },
+  {
+    "value": 369,
+    "label": "Relicanth / Relicanth"
+  },
+  {
+    "value": 370,
+    "label": "Liebiskus / Luvdisc"
+  },
+  {
+    "value": 371,
+    "label": "Kindwurm / Bagon"
+  },
+  {
+    "value": 372,
+    "label": "Draschel / Shelgon"
+  },
+  {
+    "value": 373,
+    "label": "Brutalanda / Salamence"
+  },
+  {
+    "value": 374,
+    "label": "Tanhel / Beldum"
+  },
+  {
+    "value": 375,
+    "label": "Metang / Metang"
+  },
+  {
+    "value": 376,
+    "label": "Metagross / Metagross"
+  },
+  {
+    "value": 377,
+    "label": "Regirock / Regirock"
+  },
+  {
+    "value": 378,
+    "label": "Regice / Regice"
+  },
+  {
+    "value": 379,
+    "label": "Registeel / Registeel"
+  },
+  {
+    "value": 380,
+    "label": "Latias / Latias"
+  },
+  {
+    "value": 381,
+    "label": "Latios / Latios"
+  },
+  {
+    "value": 382,
+    "label": "Kyogre / Kyogre"
+  },
+  {
+    "value": 383,
+    "label": "Groudon / Groudon"
+  },
+  {
+    "value": 384,
+    "label": "Rayquaza / Rayquaza"
+  },
+  {
+    "value": 385,
+    "label": "Jirachi / Jirachi"
+  },
+  {
+    "value": 386,
+    "label": "Deoxys / Deoxys"
+  },
+  {
+    "value": 387,
+    "label": "Chelast / Turtwig"
+  },
+  {
+    "value": 388,
+    "label": "Chelcarain / Grotle"
+  },
+  {
+    "value": 389,
+    "label": "Chelterrar / Torterra"
+  },
+  {
+    "value": 390,
+    "label": "Panflam / Chimchar"
+  },
+  {
+    "value": 391,
+    "label": "Panpyro / Monferno"
+  },
+  {
+    "value": 392,
+    "label": "Panferno / Infernape"
+  },
+  {
+    "value": 393,
+    "label": "Plinfa / Piplup"
+  },
+  {
+    "value": 394,
+    "label": "Pliprin / Prinplup"
+  },
+  {
+    "value": 395,
+    "label": "Impoleon / Empoleon"
+  },
+  {
+    "value": 396,
+    "label": "Staralili / Starly"
+  },
+  {
+    "value": 397,
+    "label": "Staravia / Staravia"
+  },
+  {
+    "value": 398,
+    "label": "Staraptor / Staraptor"
+  },
+  {
+    "value": 399,
+    "label": "Bidiza / Bidoof"
+  },
+  {
+    "value": 400,
+    "label": "Bidifas / Bibarel"
+  },
+  {
+    "value": 401,
+    "label": "Zirpurze / Kricketot"
+  },
+  {
+    "value": 402,
+    "label": "Zirpeise / Kricketune"
+  },
+  {
+    "value": 403,
+    "label": "Sheinux / Shinx"
+  },
+  {
+    "value": 404,
+    "label": "Luxio / Luxio"
+  },
+  {
+    "value": 405,
+    "label": "Luxtra / Luxray"
+  },
+  {
+    "value": 406,
+    "label": "Knospi / Budew"
+  },
+  {
+    "value": 407,
+    "label": "Roserade / Roserade"
+  },
+  {
+    "value": 408,
+    "label": "Koknodon / Cranidos"
+  },
+  {
+    "value": 409,
+    "label": "Rameidon / Rampardos"
+  },
+  {
+    "value": 410,
+    "label": "Schilterus / Shieldon"
+  },
+  {
+    "value": 411,
+    "label": "Bollterus / Bastiodon"
+  },
+  {
+    "value": 412,
+    "label": "Burmy / Burmy"
+  },
+  {
+    "value": 413,
+    "label": "Burmadame / Wormadam"
+  },
+  {
+    "value": 414,
+    "label": "Moterpel / Mothim"
+  },
+  {
+    "value": 415,
+    "label": "Wadribie / Combee"
+  },
+  {
+    "value": 416,
+    "label": "Honweisel / Vespiquen"
+  },
+  {
+    "value": 417,
+    "label": "Pachirisu / Pachirisu"
+  },
+  {
+    "value": 418,
+    "label": "Bamelin / Buizel"
+  },
+  {
+    "value": 419,
+    "label": "Bojelin / Floatzel"
+  },
+  {
+    "value": 420,
+    "label": "Kikugi / Cherubi"
+  },
+  {
+    "value": 421,
+    "label": "Kinoso / Cherrim"
+  },
+  {
+    "value": 422,
+    "label": "Schalellos / Shellos"
+  },
+  {
+    "value": 423,
+    "label": "Gastrodon / Gastrodon"
+  },
+  {
+    "value": 424,
+    "label": "Ambidiffel / Ambipom"
+  },
+  {
+    "value": 425,
+    "label": "Driftlon / Drifloon"
+  },
+  {
+    "value": 426,
+    "label": "Drifzepeli / Drifblim"
+  },
+  {
+    "value": 427,
+    "label": "Haspiror / Buneary"
+  },
+  {
+    "value": 428,
+    "label": "Schlapor / Lopunny"
+  },
+  {
+    "value": 429,
+    "label": "Traunmagil / Mismagius"
+  },
+  {
+    "value": 430,
+    "label": "Kramshef / Honchkrow"
+  },
+  {
+    "value": 431,
+    "label": "Charmian / Glameow"
+  },
+  {
+    "value": 432,
+    "label": "Shnurgarst / Purugly"
+  },
+  {
+    "value": 433,
+    "label": "Klingplim / Chingling"
+  },
+  {
+    "value": 434,
+    "label": "Skunkapuh / Stunky"
+  },
+  {
+    "value": 435,
+    "label": "Skuntank / Skuntank"
+  },
+  {
+    "value": 436,
+    "label": "Bronzel / Bronzor"
+  },
+  {
+    "value": 437,
+    "label": "Bronzong / Bronzong"
+  },
+  {
+    "value": 438,
+    "label": "Mobai / Bonsly"
+  },
+  {
+    "value": 439,
+    "label": "Pantimimi / Mime Jr."
+  },
+  {
+    "value": 440,
+    "label": "Wonneira / Happiny"
+  },
+  {
+    "value": 441,
+    "label": "Plaudagei / Chatot"
+  },
+  {
+    "value": 442,
+    "label": "Kryppuk / Spiritomb"
+  },
+  {
+    "value": 443,
+    "label": "Kaumalat / Gible"
+  },
+  {
+    "value": 444,
+    "label": "Knarksel / Gabite"
+  },
+  {
+    "value": 445,
+    "label": "Knakrack / Garchomp"
+  },
+  {
+    "value": 446,
+    "label": "Mampfaxo / Munchlax"
+  },
+  {
+    "value": 447,
+    "label": "Riolu / Riolu"
+  },
+  {
+    "value": 448,
+    "label": "Lucario / Lucario"
+  },
+  {
+    "value": 449,
+    "label": "Hippopotas / Hippopotas"
+  },
+  {
+    "value": 450,
+    "label": "Hippoterus / Hippowdon"
+  },
+  {
+    "value": 451,
+    "label": "Pionskora / Skorupi"
+  },
+  {
+    "value": 452,
+    "label": "Piondragi / Drapion"
+  },
+  {
+    "value": 453,
+    "label": "Glibunkel / Croagunk"
+  },
+  {
+    "value": 454,
+    "label": "Toxiquak / Toxicroak"
+  },
+  {
+    "value": 455,
+    "label": "Venuflibis / Carnivine"
+  },
+  {
+    "value": 456,
+    "label": "Finneon / Finneon"
+  },
+  {
+    "value": 457,
+    "label": "Lumineon / Lumineon"
+  },
+  {
+    "value": 458,
+    "label": "Mantirps / Mantyke"
+  },
+  {
+    "value": 459,
+    "label": "Shnebedeck / Snover"
+  },
+  {
+    "value": 460,
+    "label": "Rexblisar / Abomasnow"
+  },
+  {
+    "value": 461,
+    "label": "Snibunna / Weavile"
+  },
+  {
+    "value": 462,
+    "label": "Magnezone / Magnezone"
+  },
+  {
+    "value": 463,
+    "label": "Schlurplek / Lickilicky"
+  },
+  {
+    "value": 464,
+    "label": "Rihornior / Rhyperior"
+  },
+  {
+    "value": 465,
+    "label": "Tangoloss / Tangrowth"
+  },
+  {
+    "value": 466,
+    "label": "Elevoltek / Electivire"
+  },
+  {
+    "value": 467,
+    "label": "Magbrant / Magmortar"
+  },
+  {
+    "value": 468,
+    "label": "Togekiss / Togekiss"
+  },
+  {
+    "value": 469,
+    "label": "Yanmega / Yanmega"
+  },
+  {
+    "value": 470,
+    "label": "Folipurba / Leafeon"
+  },
+  {
+    "value": 471,
+    "label": "Glaziola / Glaceon"
+  },
+  {
+    "value": 472,
+    "label": "Skorgro / Gliscor"
+  },
+  {
+    "value": 473,
+    "label": "Mamutel / Mamoswine"
+  },
+  {
+    "value": 474,
+    "label": "Porygon-Z / Porygon-Z"
+  },
+  {
+    "value": 475,
+    "label": "Galagladi / Gallade"
+  },
+  {
+    "value": 476,
+    "label": "Voluminas / Probopass"
+  },
+  {
+    "value": 477,
+    "label": "Zwirrfinst / Dusknoir"
+  },
+  {
+    "value": 478,
+    "label": "Frosdedje / Froslass"
+  },
+  {
+    "value": 479,
+    "label": "Rotom / Rotom"
+  },
+  {
+    "value": 480,
+    "label": "Selfe / Uxie"
+  },
+  {
+    "value": 481,
+    "label": "Vesprit / Mesprit"
+  },
+  {
+    "value": 482,
+    "label": "Tobutz / Azelf"
+  },
+  {
+    "value": 483,
+    "label": "Dialga / Dialga"
+  },
+  {
+    "value": 484,
+    "label": "Palkia / Palkia"
+  },
+  {
+    "value": 485,
+    "label": "Heatran / Heatran"
+  },
+  {
+    "value": 486,
+    "label": "Regigigas / Regigigas"
+  },
+  {
+    "value": 487,
+    "label": "Giratina / Giratina"
+  },
+  {
+    "value": 488,
+    "label": "Cresselia / Cresselia"
+  },
+  {
+    "value": 489,
+    "label": "Phione / Phione"
+  },
+  {
+    "value": 490,
+    "label": "Manaphy / Manaphy"
+  },
+  {
+    "value": 491,
+    "label": "Darkrai / Darkrai"
+  },
+  {
+    "value": 492,
+    "label": "Shaymin / Shaymin"
+  },
+  {
+    "value": 493,
+    "label": "Arceus / Arceus"
+  },
+  {
+    "value": 494,
+    "label": "Victini / Victini"
+  },
+  {
+    "value": 495,
+    "label": "Serpifeu / Snivy"
+  },
+  {
+    "value": 496,
+    "label": "Efoserp / Servine"
+  },
+  {
+    "value": 497,
+    "label": "Serpiroyal / Serperior"
+  },
+  {
+    "value": 498,
+    "label": "Floink / Tepig"
+  },
+  {
+    "value": 499,
+    "label": "Ferkokel / Pignite"
+  },
+  {
+    "value": 500,
+    "label": "Flambirex / Emboar"
+  },
+  {
+    "value": 501,
+    "label": "Ottaro / Oshawott"
+  },
+  {
+    "value": 502,
+    "label": "Zwottronin / Dewott"
+  },
+  {
+    "value": 503,
+    "label": "Admurai / Samurott"
+  },
+  {
+    "value": 504,
+    "label": "Nagelotz / Patrat"
+  },
+  {
+    "value": 505,
+    "label": "Kukmarda / Watchog"
+  },
+  {
+    "value": 506,
+    "label": "Yorkleff / Lillipup"
+  },
+  {
+    "value": 507,
+    "label": "Terribark / Herdier"
+  },
+  {
+    "value": 508,
+    "label": "Bissbark / Stoutland"
+  },
+  {
+    "value": 509,
+    "label": "Felilou / Purrloin"
+  },
+  {
+    "value": 510,
+    "label": "Kleoparda / Liepard"
+  },
+  {
+    "value": 511,
+    "label": "Vegimak / Pansage"
+  },
+  {
+    "value": 512,
+    "label": "Vegichita / Simisage"
+  },
+  {
+    "value": 513,
+    "label": "Grillmak / Pansear"
+  },
+  {
+    "value": 514,
+    "label": "Grillchita / Simisear"
+  },
+  {
+    "value": 515,
+    "label": "Sodamak / Panpour"
+  },
+  {
+    "value": 516,
+    "label": "Sodachita / Simipour"
+  },
+  {
+    "value": 517,
+    "label": "Somniam / Munna"
+  },
+  {
+    "value": 518,
+    "label": "Somnivora / Musharna"
+  },
+  {
+    "value": 519,
+    "label": "Dusselgurr / Pidove"
+  },
+  {
+    "value": 520,
+    "label": "Navitaub / Tranquill"
+  },
+  {
+    "value": 521,
+    "label": "Fasasnob / Unfezant"
+  },
+  {
+    "value": 522,
+    "label": "Elezeba / Blitzle"
+  },
+  {
+    "value": 523,
+    "label": "Zebritz / Zebstrika"
+  },
+  {
+    "value": 524,
+    "label": "Kiesling / Roggenrola"
+  },
+  {
+    "value": 525,
+    "label": "Sedimantur / Boldore"
+  },
+  {
+    "value": 526,
+    "label": "Brockoloss / Gigalith"
+  },
+  {
+    "value": 527,
+    "label": "Fleknoil / Woobat"
+  },
+  {
+    "value": 528,
+    "label": "Fletiamo / Swoobat"
+  },
+  {
+    "value": 529,
+    "label": "Rotomurf / Drilbur"
+  },
+  {
+    "value": 530,
+    "label": "Stalobor / Excadrill"
+  },
+  {
+    "value": 531,
+    "label": "Ohrdoch / Audino"
+  },
+  {
+    "value": 532,
+    "label": "Praktibalk / Timburr"
+  },
+  {
+    "value": 533,
+    "label": "Strepoli / Gurdurr"
+  },
+  {
+    "value": 534,
+    "label": "Meistagrif / Conkeldurr"
+  },
+  {
+    "value": 535,
+    "label": "Schallquap / Tympole"
+  },
+  {
+    "value": 536,
+    "label": "Mebrana / Palpitoad"
+  },
+  {
+    "value": 537,
+    "label": "Branawarz / Seismitoad"
+  },
+  {
+    "value": 538,
+    "label": "Jiutesto / Throh"
+  },
+  {
+    "value": 539,
+    "label": "Karadonis / Sawk"
+  },
+  {
+    "value": 540,
+    "label": "Strawickl / Sewaddle"
+  },
+  {
+    "value": 541,
+    "label": "Folikon / Swadloon"
+  },
+  {
+    "value": 542,
+    "label": "Matrifol / Leavanny"
+  },
+  {
+    "value": 543,
+    "label": "Toxiped / Venipede"
+  },
+  {
+    "value": 544,
+    "label": "Rollum / Whirlipede"
+  },
+  {
+    "value": 545,
+    "label": "Cerapendra / Scolipede"
+  },
+  {
+    "value": 546,
+    "label": "Waumboll / Cottonee"
+  },
+  {
+    "value": 547,
+    "label": "Elfun / Whimsicott"
+  },
+  {
+    "value": 548,
+    "label": "Lilminip / Petilil"
+  },
+  {
+    "value": 549,
+    "label": "Dressella / Lilligant"
+  },
+  {
+    "value": 550,
+    "label": "Barschuft / Basculin"
+  },
+  {
+    "value": 551,
+    "label": "Ganovil / Sandile"
+  },
+  {
+    "value": 552,
+    "label": "Rokkaiman / Krokorok"
+  },
+  {
+    "value": 553,
+    "label": "Rabigator / Krookodile"
+  },
+  {
+    "value": 554,
+    "label": "Flampion / Darumaka"
+  },
+  {
+    "value": 555,
+    "label": "Flampivian / Darmanitan"
+  },
+  {
+    "value": 556,
+    "label": "Maracamba / Maractus"
+  },
+  {
+    "value": 557,
+    "label": "Lithomith / Dwebble"
+  },
+  {
+    "value": 558,
+    "label": "Castellith / Crustle"
+  },
+  {
+    "value": 559,
+    "label": "Zurrokex / Scraggy"
+  },
+  {
+    "value": 560,
+    "label": "Irokex / Scrafty"
+  },
+  {
+    "value": 561,
+    "label": "Symvolara / Sigilyph"
+  },
+  {
+    "value": 562,
+    "label": "Makabaja / Yamask"
+  },
+  {
+    "value": 563,
+    "label": "Echnatoll / Cofagrigus"
+  },
+  {
+    "value": 564,
+    "label": "Galapaflos / Tirtouga"
+  },
+  {
+    "value": 565,
+    "label": "Karippas / Carracosta"
+  },
+  {
+    "value": 566,
+    "label": "Flapteryx / Archen"
+  },
+  {
+    "value": 567,
+    "label": "Aeropteryx / Archeops"
+  },
+  {
+    "value": 568,
+    "label": "Unratütox / Trubbish"
+  },
+  {
+    "value": 569,
+    "label": "Deponitox / Garbodor"
+  },
+  {
+    "value": 570,
+    "label": "Zorua / Zorua"
+  },
+  {
+    "value": 571,
+    "label": "Zoroark / Zoroark"
+  },
+  {
+    "value": 572,
+    "label": "Picochilla / Minccino"
+  },
+  {
+    "value": 573,
+    "label": "Chillabell / Cinccino"
+  },
+  {
+    "value": 574,
+    "label": "Mollimorba / Gothita"
+  },
+  {
+    "value": 575,
+    "label": "Hypnomorba / Gothorita"
+  },
+  {
+    "value": 576,
+    "label": "Morbitesse / Gothitelle"
+  },
+  {
+    "value": 577,
+    "label": "Monozyto / Solosis"
+  },
+  {
+    "value": 578,
+    "label": "Mitodos / Duosion"
+  },
+  {
+    "value": 579,
+    "label": "Zytomega / Reuniclus"
+  },
+  {
+    "value": 580,
+    "label": "Piccolente / Ducklett"
+  },
+  {
+    "value": 581,
+    "label": "Swaroness / Swanna"
+  },
+  {
+    "value": 582,
+    "label": "Gelatini / Vanillite"
+  },
+  {
+    "value": 583,
+    "label": "Gelatroppo / Vanillish"
+  },
+  {
+    "value": 584,
+    "label": "Gelatwino / Vanilluxe"
+  },
+  {
+    "value": 585,
+    "label": "Sesokitz / Deerling"
+  },
+  {
+    "value": 586,
+    "label": "Kronjuwild / Sawsbuck"
+  },
+  {
+    "value": 587,
+    "label": "Emolga / Emolga"
+  },
+  {
+    "value": 588,
+    "label": "Laukaps / Karrablast"
+  },
+  {
+    "value": 589,
+    "label": "Cavalanzas / Escavalier"
+  },
+  {
+    "value": 590,
+    "label": "Tarnpignon / Foongus"
+  },
+  {
+    "value": 591,
+    "label": "Hutsassa / Amoonguss"
+  },
+  {
+    "value": 592,
+    "label": "Quabbel / Frillish"
+  },
+  {
+    "value": 593,
+    "label": "Apoquallyp / Jellicent"
+  },
+  {
+    "value": 594,
+    "label": "Mamolida / Alomomola"
+  },
+  {
+    "value": 595,
+    "label": "Wattzapf / Joltik"
+  },
+  {
+    "value": 596,
+    "label": "Voltula / Galvantula"
+  },
+  {
+    "value": 597,
+    "label": "Kastadur / Ferroseed"
+  },
+  {
+    "value": 598,
+    "label": "Tentantel / Ferrothorn"
+  },
+  {
+    "value": 599,
+    "label": "Klikk / Klink"
+  },
+  {
+    "value": 600,
+    "label": "Kliklak / Klang"
+  },
+  {
+    "value": 601,
+    "label": "Klikdiklak / Klinklang"
+  },
+  {
+    "value": 602,
+    "label": "Zapplardin / Tynamo"
+  },
+  {
+    "value": 603,
+    "label": "Zapplalek / Eelektrik"
+  },
+  {
+    "value": 604,
+    "label": "Zapplarang / Eelektross"
+  },
+  {
+    "value": 605,
+    "label": "Pygraulon / Elgyem"
+  },
+  {
+    "value": 606,
+    "label": "Megalon / Beheeyem"
+  },
+  {
+    "value": 607,
+    "label": "Lichtel / Litwick"
+  },
+  {
+    "value": 608,
+    "label": "Laternecto / Lampent"
+  },
+  {
+    "value": 609,
+    "label": "Skelabra / Chandelure"
+  },
+  {
+    "value": 610,
+    "label": "Milza / Axew"
+  },
+  {
+    "value": 611,
+    "label": "Sharfax / Fraxure"
+  },
+  {
+    "value": 612,
+    "label": "Maxax / Haxorus"
+  },
+  {
+    "value": 613,
+    "label": "Petznief / Cubchoo"
+  },
+  {
+    "value": 614,
+    "label": "Siberio / Beartic"
+  },
+  {
+    "value": 615,
+    "label": "Frigometri / Cryogonal"
+  },
+  {
+    "value": 616,
+    "label": "Schnuthelm / Shelmet"
+  },
+  {
+    "value": 617,
+    "label": "Hydragil / Accelgor"
+  },
+  {
+    "value": 618,
+    "label": "Flunschlik / Stunfisk"
+  },
+  {
+    "value": 619,
+    "label": "Lin-Fu / Mienfoo"
+  },
+  {
+    "value": 620,
+    "label": "Wie-Shu / Mienshao"
+  },
+  {
+    "value": 621,
+    "label": "Shardrago / Druddigon"
+  },
+  {
+    "value": 622,
+    "label": "Golbit / Golett"
+  },
+  {
+    "value": 623,
+    "label": "Golgantes / Golurk"
+  },
+  {
+    "value": 624,
+    "label": "Gladiantri / Pawniard"
+  },
+  {
+    "value": 625,
+    "label": "Caesurio / Bisharp"
+  },
+  {
+    "value": 626,
+    "label": "Bisofank / Bouffalant"
+  },
+  {
+    "value": 627,
+    "label": "Geronimatz / Rufflet"
+  },
+  {
+    "value": 628,
+    "label": "Washakwil / Braviary"
+  },
+  {
+    "value": 629,
+    "label": "Skallyk / Vullaby"
+  },
+  {
+    "value": 630,
+    "label": "Grypheldis / Mandibuzz"
+  },
+  {
+    "value": 631,
+    "label": "Furnifraß / Heatmor"
+  },
+  {
+    "value": 632,
+    "label": "Fermicula / Durant"
+  },
+  {
+    "value": 633,
+    "label": "Kapuno / Deino"
+  },
+  {
+    "value": 634,
+    "label": "Duodino / Zweilous"
+  },
+  {
+    "value": 635,
+    "label": "Trikephalo / Hydreigon"
+  },
+  {
+    "value": 636,
+    "label": "Ignivor / Larvesta"
+  },
+  {
+    "value": 637,
+    "label": "Ramoth / Volcarona"
+  },
+  {
+    "value": 638,
+    "label": "Kobalium / Cobalion"
+  },
+  {
+    "value": 639,
+    "label": "Terrakium / Terrakion"
+  },
+  {
+    "value": 640,
+    "label": "Viridium / Virizion"
+  },
+  {
+    "value": 641,
+    "label": "Boreos / Tornadus"
+  },
+  {
+    "value": 642,
+    "label": "Voltolos / Thundurus"
+  },
+  {
+    "value": 643,
+    "label": "Reshiram / Reshiram"
+  },
+  {
+    "value": 644,
+    "label": "Zekrom / Zekrom"
+  },
+  {
+    "value": 645,
+    "label": "Demeteros / Landorus"
+  },
+  {
+    "value": 646,
+    "label": "Kyurem / Kyurem"
+  },
+  {
+    "value": 647,
+    "label": "Keldeo / Keldeo"
+  },
+  {
+    "value": 648,
+    "label": "Meloetta / Meloetta"
+  },
+  {
+    "value": 649,
+    "label": "Genesect / Genesect"
+  },
+  {
+    "value": 650,
+    "label": "Igamaro / Chespin"
+  },
+  {
+    "value": 651,
+    "label": "Igastarnish / Quilladin"
+  },
+  {
+    "value": 652,
+    "label": "Brigaron / Chesnaught"
+  },
+  {
+    "value": 653,
+    "label": "Fynx / Fennekin"
+  },
+  {
+    "value": 654,
+    "label": "Rutena / Braixen"
+  },
+  {
+    "value": 655,
+    "label": "Fennexis / Delphox"
+  },
+  {
+    "value": 656,
+    "label": "Froxy / Froakie"
+  },
+  {
+    "value": 657,
+    "label": "Amphizel / Frogadier"
+  },
+  {
+    "value": 658,
+    "label": "Quajutsu / Greninja"
+  },
+  {
+    "value": 659,
+    "label": "Scoppel / Bunnelby"
+  },
+  {
+    "value": 660,
+    "label": "Grebbit / Diggersby"
+  },
+  {
+    "value": 661,
+    "label": "Dartiri / Fletchling"
+  },
+  {
+    "value": 662,
+    "label": "Dartignis / Fletchinder"
+  },
+  {
+    "value": 663,
+    "label": "Fiaro / Talonflame"
+  },
+  {
+    "value": 664,
+    "label": "Purmel / Scatterbug"
+  },
+  {
+    "value": 665,
+    "label": "Puponcho / Spewpa"
+  },
+  {
+    "value": 666,
+    "label": "Vivillon / Vivillon"
+  },
+  {
+    "value": 667,
+    "label": "Leufeo / Litleo"
+  },
+  {
+    "value": 668,
+    "label": "Pyroleo / Pyroar"
+  },
+  {
+    "value": 669,
+    "label": "Flabébé / Flabébé"
+  },
+  {
+    "value": 670,
+    "label": "Floette / Floette"
+  },
+  {
+    "value": 671,
+    "label": "Florges / Florges"
+  },
+  {
+    "value": 672,
+    "label": "Mähikel / Skiddo"
+  },
+  {
+    "value": 673,
+    "label": "Chevrumm / Gogoat"
+  },
+  {
+    "value": 674,
+    "label": "Pam-Pam / Pancham"
+  },
+  {
+    "value": 675,
+    "label": "Pandagro / Pangoro"
+  },
+  {
+    "value": 676,
+    "label": "Coiffwaff / Furfrou"
+  },
+  {
+    "value": 677,
+    "label": "Psiau / Espurr"
+  },
+  {
+    "value": 678,
+    "label": "Psiaugon / Meowstic"
+  },
+  {
+    "value": 679,
+    "label": "Gramokles / Honedge"
+  },
+  {
+    "value": 680,
+    "label": "Duokles / Doublade"
+  },
+  {
+    "value": 681,
+    "label": "Durengard / Aegislash"
+  },
+  {
+    "value": 682,
+    "label": "Parfi / Spritzee"
+  },
+  {
+    "value": 683,
+    "label": "Parfinesse / Aromatisse"
+  },
+  {
+    "value": 684,
+    "label": "Flauschling / Swirlix"
+  },
+  {
+    "value": 685,
+    "label": "Sabbaione / Slurpuff"
+  },
+  {
+    "value": 686,
+    "label": "Iscalar / Inkay"
+  },
+  {
+    "value": 687,
+    "label": "Calamanero / Malamar"
+  },
+  {
+    "value": 688,
+    "label": "Bithora / Binacle"
+  },
+  {
+    "value": 689,
+    "label": "Thanathora / Barbaracle"
+  },
+  {
+    "value": 690,
+    "label": "Algitt / Skrelp"
+  },
+  {
+    "value": 691,
+    "label": "Tandrak / Dragalge"
+  },
+  {
+    "value": 692,
+    "label": "Scampisto / Clauncher"
+  },
+  {
+    "value": 693,
+    "label": "Wummer / Clawitzer"
+  },
+  {
+    "value": 694,
+    "label": "Eguana / Helioptile"
+  },
+  {
+    "value": 695,
+    "label": "Elezard / Heliolisk"
+  },
+  {
+    "value": 696,
+    "label": "Balgoras / Tyrunt"
+  },
+  {
+    "value": 697,
+    "label": "Monargoras / Tyrantrum"
+  },
+  {
+    "value": 698,
+    "label": "Amarino / Amaura"
+  },
+  {
+    "value": 699,
+    "label": "Amagarga / Aurorus"
+  },
+  {
+    "value": 700,
+    "label": "Feelinara / Sylveon"
+  },
+  {
+    "value": 701,
+    "label": "Resladero / Hawlucha"
+  },
+  {
+    "value": 702,
+    "label": "Dedenne / Dedenne"
+  },
+  {
+    "value": 703,
+    "label": "Rocara / Carbink"
+  },
+  {
+    "value": 704,
+    "label": "Viscora / Goomy"
+  },
+  {
+    "value": 705,
+    "label": "Viscargot / Sliggoo"
+  },
+  {
+    "value": 706,
+    "label": "Viscogon / Goodra"
+  },
+  {
+    "value": 707,
+    "label": "Clavion / Klefki"
+  },
+  {
+    "value": 708,
+    "label": "Paragoni / Phantump"
+  },
+  {
+    "value": 709,
+    "label": "Trombork / Trevenant"
+  },
+  {
+    "value": 710,
+    "label": "Irrbis / Pumpkaboo"
+  },
+  {
+    "value": 711,
+    "label": "Pumpdjinn / Gourgeist"
+  },
+  {
+    "value": 712,
+    "label": "Arktip / Bergmite"
+  },
+  {
+    "value": 713,
+    "label": "Arktilas / Avalugg"
+  },
+  {
+    "value": 714,
+    "label": "eF-eM / Noibat"
+  },
+  {
+    "value": 715,
+    "label": "UHaFnir / Noivern"
+  },
+  {
+    "value": 716,
+    "label": "Xerneas / Xerneas"
+  },
+  {
+    "value": 717,
+    "label": "Yveltal / Yveltal"
+  },
+  {
+    "value": 718,
+    "label": "Zygarde / Zygarde"
+  },
+  {
+    "value": 719,
+    "label": "Diancie / Diancie"
+  },
+  {
+    "value": 720,
+    "label": "Hoopa / Hoopa"
+  },
+  {
+    "value": 721,
+    "label": "Volcanion / Volcanion"
+  },
+  {
+    "value": 722,
+    "label": "Bauz / Rowlet"
+  },
+  {
+    "value": 723,
+    "label": "Arboretoss / Dartrix"
+  },
+  {
+    "value": 724,
+    "label": "Silvarro / Decidueye"
+  },
+  {
+    "value": 725,
+    "label": "Flamiau / Litten"
+  },
+  {
+    "value": 726,
+    "label": "Miezunder / Torracat"
+  },
+  {
+    "value": 727,
+    "label": "Fuegro / Incineroar"
+  },
+  {
+    "value": 728,
+    "label": "Robball / Popplio"
+  },
+  {
+    "value": 729,
+    "label": "Marikeck / Brionne"
+  },
+  {
+    "value": 730,
+    "label": "Primarene / Primarina"
+  },
+  {
+    "value": 731,
+    "label": "Peppeck / Pikipek"
+  },
+  {
+    "value": 732,
+    "label": "Trompeck / Trumbeak"
+  },
+  {
+    "value": 733,
+    "label": "Tukanon / Toucannon"
+  },
+  {
+    "value": 734,
+    "label": "Mangunior / Yungoos"
+  },
+  {
+    "value": 735,
+    "label": "Manguspektor / Gumshoos"
+  },
+  {
+    "value": 736,
+    "label": "Mabula / Grubbin"
+  },
+  {
+    "value": 737,
+    "label": "Akkup / Charjabug"
+  },
+  {
+    "value": 738,
+    "label": "Donarion / Vikavolt"
+  },
+  {
+    "value": 739,
+    "label": "Krabbox / Crabrawler"
+  },
+  {
+    "value": 740,
+    "label": "Krawell / Crabominable"
+  },
+  {
+    "value": 741,
+    "label": "Choreogel / Oricorio"
+  },
+  {
+    "value": 742,
+    "label": "Wommel / Cutiefly"
+  },
+  {
+    "value": 743,
+    "label": "Bandelby / Ribombee"
+  },
+  {
+    "value": 744,
+    "label": "Wuffels / Rockruff"
+  },
+  {
+    "value": 745,
+    "label": "Wolwerock / Lycanroc"
+  },
+  {
+    "value": 746,
+    "label": "Lusardin / Wishiwashi"
+  },
+  {
+    "value": 747,
+    "label": "Garstella / Mareanie"
+  },
+  {
+    "value": 748,
+    "label": "Aggrostella / Toxapex"
+  },
+  {
+    "value": 749,
+    "label": "Pampuli / Mudbray"
+  },
+  {
+    "value": 750,
+    "label": "Pampross / Mudsdale"
+  },
+  {
+    "value": 751,
+    "label": "Araqua / Dewpider"
+  },
+  {
+    "value": 752,
+    "label": "Aranestro / Araquanid"
+  },
+  {
+    "value": 753,
+    "label": "Imantis / Fomantis"
+  },
+  {
+    "value": 754,
+    "label": "Mantidea / Lurantis"
+  },
+  {
+    "value": 755,
+    "label": "Bubungus / Morelull"
+  },
+  {
+    "value": 756,
+    "label": "Lamellux / Shiinotic"
+  },
+  {
+    "value": 757,
+    "label": "Molunk / Salandit"
+  },
+  {
+    "value": 758,
+    "label": "Amfira / Salazzle"
+  },
+  {
+    "value": 759,
+    "label": "Velursi / Stufful"
+  },
+  {
+    "value": 760,
+    "label": "Kosturso / Bewear"
+  },
+  {
+    "value": 761,
+    "label": "Frubberl / Bounsweet"
+  },
+  {
+    "value": 762,
+    "label": "Frubaila / Steenee"
+  },
+  {
+    "value": 763,
+    "label": "Fruyal / Tsareena"
+  },
+  {
+    "value": 764,
+    "label": "Curelei / Comfey"
+  },
+  {
+    "value": 765,
+    "label": "Kommandutan / Oranguru"
+  },
+  {
+    "value": 766,
+    "label": "Quartermak / Passimian"
+  },
+  {
+    "value": 767,
+    "label": "Reißlaus / Wimpod"
+  },
+  {
+    "value": 768,
+    "label": "Tectass / Golisopod"
+  },
+  {
+    "value": 769,
+    "label": "Sankabuh / Sandygast"
+  },
+  {
+    "value": 770,
+    "label": "Colossand / Palossand"
+  },
+  {
+    "value": 771,
+    "label": "Gufa / Pyukumuku"
+  },
+  {
+    "value": 772,
+    "label": "Typ:Null / Type: Null"
+  },
+  {
+    "value": 773,
+    "label": "Amigento / Silvally"
+  },
+  {
+    "value": 774,
+    "label": "Meteno / Minior"
+  },
+  {
+    "value": 775,
+    "label": "Koalelu / Komala"
+  },
+  {
+    "value": 776,
+    "label": "Tortunator / Turtonator"
+  },
+  {
+    "value": 777,
+    "label": "Togedemaru / Togedemaru"
+  },
+  {
+    "value": 778,
+    "label": "Mimigma / Mimikyu"
+  },
+  {
+    "value": 779,
+    "label": "Knirfish / Bruxish"
+  },
+  {
+    "value": 780,
+    "label": "Sen-Long / Drampa"
+  },
+  {
+    "value": 781,
+    "label": "Moruda / Dhelmise"
+  },
+  {
+    "value": 782,
+    "label": "Miniras / Jangmo-o"
+  },
+  {
+    "value": 783,
+    "label": "Mediras / Hakamo-o"
+  },
+  {
+    "value": 784,
+    "label": "Grandiras / Kommo-o"
+  },
+  {
+    "value": 785,
+    "label": "Kapu-Riki / Tapu Koko"
+  },
+  {
+    "value": 786,
+    "label": "Kapu-Fala / Tapu Lele"
+  },
+  {
+    "value": 787,
+    "label": "Kapu-Toro / Tapu Bulu"
+  },
+  {
+    "value": 788,
+    "label": "Kapu-Kime / Tapu Fini"
+  },
+  {
+    "value": 789,
+    "label": "Cosmog / Cosmog"
+  },
+  {
+    "value": 790,
+    "label": "Cosmovum / Cosmoem"
+  },
+  {
+    "value": 791,
+    "label": "Solgaleo / Solgaleo"
+  },
+  {
+    "value": 792,
+    "label": "Lunala / Lunala"
+  },
+  {
+    "value": 793,
+    "label": "Anego / Nihilego"
+  },
+  {
+    "value": 794,
+    "label": "Masskito / Buzzwole"
+  },
+  {
+    "value": 795,
+    "label": "Schabelle / Pheromosa"
+  },
+  {
+    "value": 796,
+    "label": "Voltriant / Xurkitree"
+  },
+  {
+    "value": 797,
+    "label": "Kaguron / Celesteela"
+  },
+  {
+    "value": 798,
+    "label": "Katagami / Kartana"
+  },
+  {
+    "value": 799,
+    "label": "Schlingking / Guzzlord"
+  },
+  {
+    "value": 800,
+    "label": "Necrozma / Necrozma"
+  },
+  {
+    "value": 801,
+    "label": "Magearna / Magearna"
+  },
+  {
+    "value": 802,
+    "label": "Marshadow / Marshadow"
+  },
+  {
+    "value": 803,
+    "label": "Venicro / Poipole"
+  },
+  {
+    "value": 804,
+    "label": "Agoyon / Naganadel"
+  },
+  {
+    "value": 805,
+    "label": "Muramura / Stakataka"
+  },
+  {
+    "value": 806,
+    "label": "Kopplosio / Blacephalon"
+  },
+  {
+    "value": 807,
+    "label": "Zeraora / Zeraora"
+  },
+  {
+    "value": 808,
+    "label": "Meltan / Meltan"
+  },
+  {
+    "value": 809,
+    "label": "Melmetal / Melmetal"
+  },
+  {
+    "value": 810,
+    "label": "Chimpep / Grookey"
+  },
+  {
+    "value": 811,
+    "label": "Chimstix / Thwackey"
+  },
+  {
+    "value": 812,
+    "label": "Gortrom / Rillaboom"
+  },
+  {
+    "value": 813,
+    "label": "Hopplo / Scorbunny"
+  },
+  {
+    "value": 814,
+    "label": "Kickerlo / Raboot"
+  },
+  {
+    "value": 815,
+    "label": "Liberlo / Cinderace"
+  },
+  {
+    "value": 816,
+    "label": "Memmeon / Sobble"
+  },
+  {
+    "value": 817,
+    "label": "Phlegleon / Drizzile"
+  },
+  {
+    "value": 818,
+    "label": "Intelleon / Inteleon"
+  },
+  {
+    "value": 819,
+    "label": "Raffel / Skwovet"
+  },
+  {
+    "value": 820,
+    "label": "Schlaraffel / Greedent"
+  },
+  {
+    "value": 821,
+    "label": "Meikro / Rookidee"
+  },
+  {
+    "value": 822,
+    "label": "Kranoviz / Corvisquire"
+  },
+  {
+    "value": 823,
+    "label": "Krarmor / Corviknight"
+  },
+  {
+    "value": 824,
+    "label": "Sensect / Blipbug"
+  },
+  {
+    "value": 825,
+    "label": "Keradar / Dottler"
+  },
+  {
+    "value": 826,
+    "label": "Maritellit / Orbeetle"
+  },
+  {
+    "value": 827,
+    "label": "Kleptifux / Nickit"
+  },
+  {
+    "value": 828,
+    "label": "Gaunux / Thievul"
+  },
+  {
+    "value": 829,
+    "label": "Cottini / Gossifleur"
+  },
+  {
+    "value": 830,
+    "label": "Cottomi / Eldegoss"
+  },
+  {
+    "value": 831,
+    "label": "Wolly / Wooloo"
+  },
+  {
+    "value": 832,
+    "label": "Zwollock / Dubwool"
+  },
+  {
+    "value": 833,
+    "label": "Kamehaps / Chewtle"
+  },
+  {
+    "value": 834,
+    "label": "Kamalm / Drednaw"
+  },
+  {
+    "value": 835,
+    "label": "Voldi / Yamper"
+  },
+  {
+    "value": 836,
+    "label": "Bellektro / Boltund"
+  },
+  {
+    "value": 837,
+    "label": "Klonkett / Rolycoly"
+  },
+  {
+    "value": 838,
+    "label": "Wagong / Carkol"
+  },
+  {
+    "value": 839,
+    "label": "Montecarbo / Coalossal"
+  },
+  {
+    "value": 840,
+    "label": "Knapfel / Applin"
+  },
+  {
+    "value": 841,
+    "label": "Drapfel / Flapple"
+  },
+  {
+    "value": 842,
+    "label": "Schlapfel / Appletun"
+  },
+  {
+    "value": 843,
+    "label": "Salanga / Silicobra"
+  },
+  {
+    "value": 844,
+    "label": "Sanaconda / Sandaconda"
+  },
+  {
+    "value": 845,
+    "label": "Urgl / Cramorant"
+  },
+  {
+    "value": 846,
+    "label": "Pikuda / Arrokuda"
+  },
+  {
+    "value": 847,
+    "label": "Barrakiefa / Barraskewda"
+  },
+  {
+    "value": 848,
+    "label": "Toxel / Toxel"
+  },
+  {
+    "value": 849,
+    "label": "Riffex / Toxtricity"
+  },
+  {
+    "value": 850,
+    "label": "Thermopod / Sizzlipede"
+  },
+  {
+    "value": 851,
+    "label": "Infernopod / Centiskorch"
+  },
+  {
+    "value": 852,
+    "label": "Klopptopus / Clobbopus"
+  },
+  {
+    "value": 853,
+    "label": "Kaocto / Grapploct"
+  },
+  {
+    "value": 854,
+    "label": "Fatalitee / Sinistea"
+  },
+  {
+    "value": 855,
+    "label": "Mortipot / Polteageist"
+  },
+  {
+    "value": 856,
+    "label": "Brimova / Hatenna"
+  },
+  {
+    "value": 857,
+    "label": "Brimano / Hattrem"
+  },
+  {
+    "value": 858,
+    "label": "Silembrim / Hatterene"
+  },
+  {
+    "value": 859,
+    "label": "Bähmon / Impidimp"
+  },
+  {
+    "value": 860,
+    "label": "Pelzebub / Morgrem"
+  },
+  {
+    "value": 861,
+    "label": "Olangaar / Grimmsnarl"
+  },
+  {
+    "value": 862,
+    "label": "Barrikadax / Obstagoon"
+  },
+  {
+    "value": 863,
+    "label": "Mauzinger / Perrserker"
+  },
+  {
+    "value": 864,
+    "label": "Gorgasonn / Cursola"
+  },
+  {
+    "value": 865,
+    "label": "Lauchzelot / Sirfetch’d"
+  },
+  {
+    "value": 866,
+    "label": "Pantifrost / Mr. Rime"
+  },
+  {
+    "value": 867,
+    "label": "Oghnatoll / Runerigus"
+  },
+  {
+    "value": 868,
+    "label": "Hokumil / Milcery"
+  },
+  {
+    "value": 869,
+    "label": "Pokusan / Alcremie"
+  },
+  {
+    "value": 870,
+    "label": "Legios / Falinks"
+  },
+  {
+    "value": 871,
+    "label": "Britzigel / Pincurchin"
+  },
+  {
+    "value": 872,
+    "label": "Snomnom / Snom"
+  },
+  {
+    "value": 873,
+    "label": "Mottineva / Frosmoth"
+  },
+  {
+    "value": 874,
+    "label": "Humanolith / Stonjourner"
+  },
+  {
+    "value": 875,
+    "label": "Kubuin / Eiscue"
+  },
+  {
+    "value": 876,
+    "label": "Servol / Indeedee"
+  },
+  {
+    "value": 877,
+    "label": "Morpeko / Morpeko"
+  },
+  {
+    "value": 878,
+    "label": "Kupfanti / Cufant"
+  },
+  {
+    "value": 879,
+    "label": "Patinaraja / Copperajah"
+  },
+  {
+    "value": 880,
+    "label": "Lectragon / Dracozolt"
+  },
+  {
+    "value": 881,
+    "label": "Lecryodon / Arctozolt"
+  },
+  {
+    "value": 882,
+    "label": "Pescragon / Dracovish"
+  },
+  {
+    "value": 883,
+    "label": "Pescryodon / Arctovish"
+  },
+  {
+    "value": 884,
+    "label": "Duraludon / Duraludon"
+  },
+  {
+    "value": 885,
+    "label": "Grolldra / Dreepy"
+  },
+  {
+    "value": 886,
+    "label": "Phandra / Drakloak"
+  },
+  {
+    "value": 887,
+    "label": "Katapuldra / Dragapult"
+  },
+  {
+    "value": 888,
+    "label": "Zacian / Zacian"
+  },
+  {
+    "value": 889,
+    "label": "Zamazenta / Zamazenta"
+  },
+  {
+    "value": 890,
+    "label": "Endynalos / Eternatus"
+  },
+  {
+    "value": 891,
+    "label": "Dakuma / Kubfu"
+  },
+  {
+    "value": 892,
+    "label": "Wulaosu / Urshifu"
+  },
+  {
+    "value": 893,
+    "label": "Zarude / Zarude"
+  },
+  {
+    "value": 894,
+    "label": "Regieleki / Regieleki"
+  },
+  {
+    "value": 895,
+    "label": "Regidrago / Regidrago"
+  },
+  {
+    "value": 896,
+    "label": "Polaross / Glastrier"
+  },
+  {
+    "value": 897,
+    "label": "Phantoross / Spectrier"
+  },
+  {
+    "value": 898,
+    "label": "Coronospa / Calyrex"
+  },
+  {
+    "value": 899,
+    "label": "Damythir / Wyrdeer"
+  },
+  {
+    "value": 900,
+    "label": "Axantor / Kleavor"
+  },
+  {
+    "value": 901,
+    "label": "Ursaluna / Ursaluna"
+  },
+  {
+    "value": 902,
+    "label": "Salmagnis / Basculegion"
+  },
+  {
+    "value": 903,
+    "label": "Snieboss / Sneasler"
+  },
+  {
+    "value": 904,
+    "label": "Myriador / Overqwil"
+  },
+  {
+    "value": 905,
+    "label": "Cupidos / Enamorus"
+  },
+  {
+    "value": 906,
+    "label": "Felori / Sprigatito"
+  },
+  {
+    "value": 907,
+    "label": "Feliospa / Floragato"
+  },
+  {
+    "value": 908,
+    "label": "Maskagato / Meowscarada"
+  },
+  {
+    "value": 909,
+    "label": "Krokel / Fuecoco"
+  },
+  {
+    "value": 910,
+    "label": "Lokroko / Crocalor"
+  },
+  {
+    "value": 911,
+    "label": "Skelokrok / Skeledirge"
+  },
+  {
+    "value": 912,
+    "label": "Kwaks / Quaxly"
+  },
+  {
+    "value": 913,
+    "label": "Fuentente / Quaxwell"
+  },
+  {
+    "value": 914,
+    "label": "Bailonda / Quaquaval"
+  },
+  {
+    "value": 915,
+    "label": "Ferkuli / Lechonk"
+  },
+  {
+    "value": 916,
+    "label": "Fragrunz / Oinkologne"
+  },
+  {
+    "value": 917,
+    "label": "Tarundel / Tarountula"
+  },
+  {
+    "value": 918,
+    "label": "Spinsidias / Spidops"
+  },
+  {
+    "value": 919,
+    "label": "Micrick / Nymble"
+  },
+  {
+    "value": 920,
+    "label": "Lextremo / Lokix"
+  },
+  {
+    "value": 921,
+    "label": "Pamo / Pawmi"
+  },
+  {
+    "value": 922,
+    "label": "Pamamo / Pawmo"
+  },
+  {
+    "value": 923,
+    "label": "Pamomamo / Pawmot"
+  },
+  {
+    "value": 924,
+    "label": "Zwieps / Tandemaus"
+  },
+  {
+    "value": 925,
+    "label": "Famieps / Maushold"
+  },
+  {
+    "value": 926,
+    "label": "Hefel / Fidough"
+  },
+  {
+    "value": 927,
+    "label": "Backel / Dachsbun"
+  },
+  {
+    "value": 928,
+    "label": "Olini / Smoliv"
+  },
+  {
+    "value": 929,
+    "label": "Olivinio / Dolliv"
+  },
+  {
+    "value": 930,
+    "label": "Olithena / Arboliva"
+  },
+  {
+    "value": 931,
+    "label": "Krawalloro / Squawkabilly"
+  },
+  {
+    "value": 932,
+    "label": "Geosali / Nacli"
+  },
+  {
+    "value": 933,
+    "label": "Sedisal / Naclstack"
+  },
+  {
+    "value": 934,
+    "label": "Saltigant / Garganacl"
+  },
+  {
+    "value": 935,
+    "label": "Knarbon / Charcadet"
+  },
+  {
+    "value": 936,
+    "label": "Crimanzo / Armarouge"
+  },
+  {
+    "value": 937,
+    "label": "Azugladis / Ceruledge"
+  },
+  {
+    "value": 938,
+    "label": "Blipp / Tadbulb"
+  },
+  {
+    "value": 939,
+    "label": "Wampitz / Bellibolt"
+  },
+  {
+    "value": 940,
+    "label": "Voltrel / Wattrel"
+  },
+  {
+    "value": 941,
+    "label": "Voltrean / Kilowattrel"
+  },
+  {
+    "value": 942,
+    "label": "Mobtiff / Maschiff"
+  },
+  {
+    "value": 943,
+    "label": "Mastifioso / Mabosstiff"
+  },
+  {
+    "value": 944,
+    "label": "Sproxi / Shroodle"
+  },
+  {
+    "value": 945,
+    "label": "Affiti / Grafaiai"
+  },
+  {
+    "value": 946,
+    "label": "Weherba / Bramblin"
+  },
+  {
+    "value": 947,
+    "label": "Horrerba / Brambleghast"
+  },
+  {
+    "value": 948,
+    "label": "Tentagra / Toedscool"
+  },
+  {
+    "value": 949,
+    "label": "Tenterra / Toedscruel"
+  },
+  {
+    "value": 950,
+    "label": "Klibbe / Klawf"
+  },
+  {
+    "value": 951,
+    "label": "Chilingel / Capsakid"
+  },
+  {
+    "value": 952,
+    "label": "Halupenjo / Scovillain"
+  },
+  {
+    "value": 953,
+    "label": "Relluk / Rellor"
+  },
+  {
+    "value": 954,
+    "label": "Skarabaks / Rabsca"
+  },
+  {
+    "value": 955,
+    "label": "Flattutu / Flittle"
+  },
+  {
+    "value": 956,
+    "label": "Psiopatra / Espathra"
+  },
+  {
+    "value": 957,
+    "label": "Forgita / Tinkatink"
+  },
+  {
+    "value": 958,
+    "label": "Tafforgita / Tinkatuff"
+  },
+  {
+    "value": 959,
+    "label": "Granforgita / Tinkaton"
+  },
+  {
+    "value": 960,
+    "label": "Schligda / Wiglett"
+  },
+  {
+    "value": 961,
+    "label": "Schligdri / Wugtrio"
+  },
+  {
+    "value": 962,
+    "label": "Adebom / Bombirdier"
+  },
+  {
+    "value": 963,
+    "label": "Normifin / Finizen"
+  },
+  {
+    "value": 964,
+    "label": "Delfinator / Palafin"
+  },
+  {
+    "value": 965,
+    "label": "Knattox / Varoom"
+  },
+  {
+    "value": 966,
+    "label": "Knattatox / Revavroom"
+  },
+  {
+    "value": 967,
+    "label": "Mopex / Cyclizar"
+  },
+  {
+    "value": 968,
+    "label": "Schlurm / Orthworm"
+  },
+  {
+    "value": 969,
+    "label": "Lumispross / Glimmet"
+  },
+  {
+    "value": 970,
+    "label": "Lumiflora / Glimmora"
+  },
+  {
+    "value": 971,
+    "label": "Gruff / Greavard"
+  },
+  {
+    "value": 972,
+    "label": "Friedwuff / Houndstone"
+  },
+  {
+    "value": 973,
+    "label": "Flaminkno / Flamigo"
+  },
+  {
+    "value": 974,
+    "label": "Flaniwal / Cetoddle"
+  },
+  {
+    "value": 975,
+    "label": "Kolowal / Cetitan"
+  },
+  {
+    "value": 976,
+    "label": "Agiluza / Veluza"
+  },
+  {
+    "value": 977,
+    "label": "Heerashai / Dondozo"
+  },
+  {
+    "value": 978,
+    "label": "Nigiragi / Tatsugiri"
+  },
+  {
+    "value": 979,
+    "label": "Epitaff / Annihilape"
+  },
+  {
+    "value": 980,
+    "label": "Suelord / Clodsire"
+  },
+  {
+    "value": 981,
+    "label": "Farigiraf / Farigiraf"
+  },
+  {
+    "value": 982,
+    "label": "Dummimisel / Dudunsparce"
+  },
+  {
+    "value": 983,
+    "label": "Gladimperio / Kingambit"
+  },
+  {
+    "value": 984,
+    "label": "Riesenzahn / Great Tusk"
+  },
+  {
+    "value": 985,
+    "label": "Brüllschweif / Scream Tail"
+  },
+  {
+    "value": 986,
+    "label": "Wutpilz / Brute Bonnet"
+  },
+  {
+    "value": 987,
+    "label": "Flatterhaar / Flutter Mane"
+  },
+  {
+    "value": 988,
+    "label": "Kriechflügel / Slither Wing"
+  },
+  {
+    "value": 989,
+    "label": "Sandfell / Sandy Shocks"
+  },
+  {
+    "value": 990,
+    "label": "Eisenrad / Iron Treads"
+  },
+  {
+    "value": 991,
+    "label": "Eisenbündel / Iron Bundle"
+  },
+  {
+    "value": 992,
+    "label": "Eisenhand / Iron Hands"
+  },
+  {
+    "value": 993,
+    "label": "Eisenhals / Iron Jugulis"
+  },
+  {
+    "value": 994,
+    "label": "Eisenfalter / Iron Moth"
+  },
+  {
+    "value": 995,
+    "label": "Eisendorn / Iron Thorns"
+  },
+  {
+    "value": 996,
+    "label": "Frospino / Frigibax"
+  },
+  {
+    "value": 997,
+    "label": "Cryospino / Arctibax"
+  },
+  {
+    "value": 998,
+    "label": "Espinodon / Baxcalibur"
+  },
+  {
+    "value": 999,
+    "label": "Gierspenst / Gimmighoul"
+  },
+  {
+    "value": 1000,
+    "label": "Monetigo / Gholdengo"
+  },
+  {
+    "value": 1001,
+    "label": "Chongjian / Wo-Chien"
+  },
+  {
+    "value": 1002,
+    "label": "Baojian / Chien-Pao"
+  },
+  {
+    "value": 1003,
+    "label": "Dinglu / Ting-Lu"
+  },
+  {
+    "value": 1004,
+    "label": "Yuyu / Chi-Yu"
+  },
+  {
+    "value": 1005,
+    "label": "Donnersichel / Roaring Moon"
+  },
+  {
+    "value": 1006,
+    "label": "Eisenkrieger / Iron Valiant"
+  },
+  {
+    "value": 1007,
+    "label": "Koraidon / Koraidon"
+  },
+  {
+    "value": 1008,
+    "label": "Miraidon / Miraidon"
+  },
+  {
+    "value": 1009,
+    "label": "Windewoge / Walking Wake"
+  },
+  {
+    "value": 1010,
+    "label": "Eisenblatt / Iron Leaves"
+  },
+  {
+    "value": 1011,
+    "label": "Sirapfel / Dipplin"
+  },
+  {
+    "value": 1012,
+    "label": "Mortcha / Poltchageist"
+  },
+  {
+    "value": 1013,
+    "label": "Fatalitcha / Sinistcha"
+  },
+  {
+    "value": 1014,
+    "label": "Boninu / Okidogi"
+  },
+  {
+    "value": 1015,
+    "label": "Benesaru / Munkidori"
+  },
+  {
+    "value": 1016,
+    "label": "Beatori / Fezandipiti"
+  },
+  {
+    "value": 1017,
+    "label": "Ogerpon / Ogerpon"
+  },
+  {
+    "value": 1018,
+    "label": "Briduradon / Archaludon"
+  },
+  {
+    "value": 1019,
+    "label": "Hydrapfel / Hydrapple"
+  },
+  {
+    "value": 1020,
+    "label": "Keilflamme / Gouging Fire"
+  },
+  {
+    "value": 1021,
+    "label": "Furienblitz / Raging Bolt"
+  },
+  {
+    "value": 1022,
+    "label": "Eisenfels / Iron Boulder"
+  },
+  {
+    "value": 1023,
+    "label": "Eisenhaupt / Iron Crown"
+  },
+  {
+    "value": 1024,
+    "label": "Terapagos / Terapagos"
+  },
+  {
+    "value": 1025,
+    "label": "Infamomo / Pecharunt"
+  }
+]
