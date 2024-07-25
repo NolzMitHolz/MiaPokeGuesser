@@ -9,19 +9,19 @@ import PokeListGen8 from './files/PokemonList/gen8List.json';
 import PokeListGen9 from './files/PokemonList/gen9List.json';
 
 export function loadPokemonList(config) {
-  let PokeList = [];
+    let PokeList = [];
 
-  if (config.gen1) PokeList = PokeList.concat(PokeListGen1);
-  if (config.gen2) PokeList = PokeList.concat(PokeListGen2);
-  if (config.gen3) PokeList = PokeList.concat(PokeListGen3);
-  if (config.gen4) PokeList = PokeList.concat(PokeListGen4);
-  if (config.gen5) PokeList = PokeList.concat(PokeListGen5);
-  if (config.gen6) PokeList = PokeList.concat(PokeListGen6);
-  if (config.gen7) PokeList = PokeList.concat(PokeListGen7);
-  if (config.gen8) PokeList = PokeList.concat(PokeListGen8);
-  if (config.gen9) PokeList = PokeList.concat(PokeListGen9);
+    if (config.gen1) PokeList = PokeList.concat(PokeListGen1);
+    if (config.gen2) PokeList = PokeList.concat(PokeListGen2);
+    if (config.gen3) PokeList = PokeList.concat(PokeListGen3);
+    if (config.gen4) PokeList = PokeList.concat(PokeListGen4);
+    if (config.gen5) PokeList = PokeList.concat(PokeListGen5);
+    if (config.gen6) PokeList = PokeList.concat(PokeListGen6);
+    if (config.gen7) PokeList = PokeList.concat(PokeListGen7);
+    if (config.gen8) PokeList = PokeList.concat(PokeListGen8);
+    if (config.gen9) PokeList = PokeList.concat(PokeListGen9);
 
-  return PokeList;
+    return PokeList;
 }
 
 //export function loadPokemonSelect() {}
